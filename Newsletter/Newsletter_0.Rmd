@@ -3,53 +3,41 @@ title: MMM Newsletter
 author: "01 | July 2026"
 output:
   prettydoc::html_pretty:
-    css: ["../css/cayman.css", "../css/normalize.css"]
+    css: ["cayman.css", "normalize.css"]
     toc: yes
 editor_options: 
   markdown: 
     wrap: 72
 ---
 
+# Projects highlights
 
-# Projects highlights 
+## ECOLITHIC workshop
 
-## ECOLITHIC workshop 
-qmfjglsfqfg
-hzldkfhqsdkg
+qmfjglsfqfg hzldkfhqsdkg
 
 qszdghflkqsjg
-
 
 ## Welcoming Rebekka in ZOOGESTURES!
 
 qsfhgqsjdklùfgq
 
+# Recently published articles
 
-# Recently published articles 
-lozhfkdjqfmzdq
-oquzhdfljdqmfj
-
-
+lozhfkdjqfmzdq oquzhdfljdqmfj
 
 zlifjmqsdjflmkqsd
 
 zqldihflksqdjf
 
+# Upcoming events
 
-# Upcoming events 
-fjqdlkjflmqsd
-jfsdlqjfqsd
+fjqdlkjflmqsd jfsdlqjfqsd
 
-qsdhlfhqsdlkf
-hsdqlfjhlkqsdjf
-hdlofhsdlkjqfq
+qsdhlfhqsdlkf hsdqlfjhlkqsdjf hdlofhsdlkjqfq
 
 # Photos gallery
-sjdhfjukzehg
-sdhfuheri
 
-zhfuozhqdoif
-hsdofhoi
-houdhfoisd
-# Members achievements
+sjdhfjukzehg sdhfuheri
 
+zhfuozhqdoif hsdofhoi houdhfoisd \# Members achievements
