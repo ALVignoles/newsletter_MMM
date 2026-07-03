@@ -10,7 +10,7 @@ body {
   color: #373A36; }
   
 body {
-  background: url("background_transparent.png");
+  background: url("https://raw.githubusercontent.com/ALVignoles/newsletter_MMM/refs/heads/main/css/background_transparent.png");
   background-color: rgba(217, 217, 217, 0.9);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -61,7 +61,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #5e7e29;;
-  background-image: url("background_silhouette.png");
+  background-image: url("https://raw.githubusercontent.com/ALVignoles/newsletter_MMM/refs/heads/main/css/background_silhouette.png");
   background-size: cover;
 }
   @media screen and (min-width: 64em) {

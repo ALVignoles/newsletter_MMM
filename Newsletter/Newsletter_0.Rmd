@@ -5,6 +5,9 @@ output:
   prettydoc::html_pretty:
     css: ["../css/cayman.css", "../css/normalize.css"]
     toc: yes
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 
