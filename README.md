@@ -9,6 +9,7 @@ The Newsletter css styling is modified from the [Cayman theme](https://prettydoc
 # Additional links 
 
 [ECOLITHIC project](https://ecolithic.uni-koeln.de/) 
+
 [ZOOGESTURES project](https://zoogestures.uni-koeln.de/) 
 
 # License
