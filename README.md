@@ -1,6 +1,6 @@
 # The Stones and Animals Newsletter
 
-This repository is dedicated to the "Meta-archaeology, Macro-archaeology, Multi-species archaeology" group bi-monhtly Newsletter. 
+This repository is dedicated to the "Meta-archaeology, Macro-archaeology, Multi-species archaeology" group Newsletter. 
 
 Previous editions: 
 
