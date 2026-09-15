@@ -1,10 +1,10 @@
-# The MMM group newsletter
+# The Stones and Animals Newsletter
 
 This repository is dedicated to the "Meta-archaeology, Macro-archaeology, Multi-species archaeology" group bi-monhtly Newsletter. 
 
 Previous editions: 
 
-*[none published yet]*
+[Template](Newsletter/Newsletter_0.html)
 
 # Template
 
