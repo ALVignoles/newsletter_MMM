@@ -6,6 +6,8 @@ Previous editions:
 
 [Template](Newsletter/Newsletter_0.html)
 
+[1^st^ edition](Newsletter/01/Newsletter_1.html)
+
 # Template
 
 The Newsletter css styling is modified from the [Cayman theme](https://prettydoc.statr.me/cayman.html), from [prettydoc package](https://prettydoc.statr.me/).
