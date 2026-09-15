@@ -1,10 +1,12 @@
 ---
-title: MMM Newsletter
+title: Newsletter
 author: "01 | July 2026"
 output:
   prettydoc::html_pretty:
     css: ["cayman.css", "normalize.css"]
     toc: yes
+    includes:
+      after_body: footer.html
 editor_options: 
   markdown: 
     wrap: 72
@@ -14,13 +16,13 @@ editor_options:
 
 ## ECOLITHIC workshop
 
-qmfjglsfqfg hzldkfhqsdkg
-
-qszdghflkqsjg
+hello we had fun!
 
 ## Welcoming Rebekka in ZOOGESTURES!
 
 qsfhgqsjdklùfgq
+
+# Other section
 
 # Recently published articles
 
@@ -40,4 +42,6 @@ qsdhlfhqsdlkf hsdqlfjhlkqsdjf hdlofhsdlkjqfq
 
 sjdhfjukzehg sdhfuheri
 
-zhfuozhqdoif hsdofhoi houdhfoisd \# Members achievements
+zhfuozhqdoif hsdofhoi houdhfoisd \
+
+# Members achievements
