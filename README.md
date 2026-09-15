@@ -1,8 +1,8 @@
 # The MMM group newsletter
 
-This repository is dedicated to the "Meta-archaeology, Macro-archaeology, Multi-species archaeology" group bi-monhtly Newsletter. \ 
+This repository is dedicated to the "Meta-archaeology, Macro-archaeology, Multi-species archaeology" group bi-monhtly Newsletter. 
 
-Previous editions: \ 
+Previous editions: 
 
 *[none published yet]*
 
