@@ -6,7 +6,7 @@ Previous editions:
 
 [Template](Newsletter/Newsletter_0.html)
 
-[1^st^ edition](Newsletter/01/Newsletter_1.html)
+[1^st edition](Newsletter/01/Newsletter_1.html)
 
 # Template
 
