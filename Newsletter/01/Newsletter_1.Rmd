@@ -1,0 +1,49 @@
+---
+title: Stones and Animals Newsletter
+author: "01 | October 2026"
+output:
+  prettydoc::html_pretty:
+    css: ["cayman.css", "normalize.css"]
+    toc: yes
+    includes:
+      after_body: footer.html
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# ECOLITHIC: A radical jkdhfdfg
+
+## ECOLITHIC workshop
+
+### 
+
+hello we had fun!
+
+## Welcoming Rebekka in ZOOGESTURES!
+
+qsfhgqsjdklùfgq
+
+# ZOOGESTURE: jfjreopjg
+
+# Recently published articles
+
+lozhfkdjqfmzdq oquzhdfljdqmfj
+
+zlifjmqsdjflmkqsd
+
+zqldihflksqdjf
+
+# Upcoming events
+
+fjqdlkjflmqsd jfsdlqjfqsd
+
+qsdhlfhqsdlkf hsdqlfjhlkqsdjf hdlofhsdlkjqfq
+
+# Photos gallery
+
+sjdhfjukzehg sdhfuheri
+
+zhfuozhqdoif hsdofhoi houdhfoisd \
+
+# Members achievements
