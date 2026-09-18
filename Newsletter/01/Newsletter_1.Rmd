@@ -3,8 +3,9 @@ title: Stones and Animals Newsletter
 author: "01 | October 2026"
 output:
   prettydoc::html_pretty:
-    css: ["cayman.css", "normalize.css"]
+    css: ["cayman.css", "normalize.css", "newsletter.css"]
     toc: yes
+    toc_depth: 2
     includes:
       after_body: footer.html
 editor_options: 
@@ -12,7 +13,9 @@ editor_options:
     wrap: 72
 ---
 
-# ECOLITHIC: A radical jkdhfdfg
+<div class="ecolithic">
+
+# ECOLITHIC: A Radical Ecosystems View of Lithic Macro-Evolution 
 
 ## ECOLITHIC workshop
 
@@ -24,22 +27,32 @@ hello we had fun!
 
 qsfhgqsjdklùfgq
 
-# Stones & Animals Newsletter
+</div>
 
-# ZOOGESTURES
+
+<div class="zoogestures">
+
+# ZOOGESTURES - Interspecies Learning and Technical Invention in Early Human Evolution
 
 ## Happenings
 
+<div class="news-item">
 ### **Matt Henderson joins ZOOGESTURES** (March 1)
 
 [Matt]
+</div>
 
+<div class="news-item">
 ### **Rebekka I.I. Eckelmann joins ZOOGESTURES** (June 1)
 
 [Rebekka joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/rebekka-ii-eckelmann) as a postdoctoral researcher and multispecies archaeologist, with a background in faunal osteology and isotope biogeochemistry. Her research explores how human–nonhuman relationships shaped past subsistence, social organisation and technological practices. Within ZOOGESTURES, she brings an archaeological perspective to past socio-zoo-technical relations.
+</div>
 
+<div class="news-item">
 ### **Welcome to the team, Rebekka and Matt!**
+</div>
 
+<div class="news-item">
 ### **ZOOGESTURES kicks off with a Bang – Launch at the Department for Prehistoric Archaeology (Cologne) attracts diverse audience** (July 15)
 
 ![ZOOGESTURES Kick Start event starting in Cologne here with Johannes Schick, Shumon Hussain, guest speaker Bar Efrati, and Rebekka Eckelmann (left to right).](ZG_Starter.jpeg)
@@ -50,11 +63,19 @@ Following an introduction to the project by Shumon T. Hussain and Rebekka I.I. E
 
 What really stood out was the lively discussion in between, full of probing questions and unexpected connections. ZOOGESTURES’ core idea – that human technology has never been a purely human affair – clearly resonated beyond our own disciplinary boundaries, opening up possibilities for new collaborations.
 
+</div>
+
+
+<div class="news-item">
+
 ### **Scoping Workshop for Multispecies Archaeology funded** (August 25)
 
 The [VolkswagenFoundation](https://www.volkswagenstiftung.de/en/funding/funding-offer/scoping-workshops) will fund a 3-day scoping workshop on the state-of-the-art and future of multispecies archaeology with 42,000 Euros. The workshop will be co-organized by Shumon Hussain (Cologne), Nathalie Brusgaard (Leiden), Hannah Chazin (New York) and Henny Piezonka (Berlin), host 27 participants from around the world, and take place at beautiful castle Herrenhausen in Hannover from 6-8 October 2027.
+</div>
+
 
 ## Announcements
+<div class="news-item">
 
 ### **Multispecies Session at [Kiel Conference](https://www.uni-kiel.de/de/cluster-roots/kiel-conference)** (March 8-12)
 
@@ -62,8 +83,12 @@ ZOOGESTURES is organising “Session 3: Multispecies Ecologies of Innovation” 
 
 Deadline: 15th of October
 
+</div>
+
+
 ## Meeting the Team
 
+<div class="news-item">
 ### Today: [Johannes Schick](https://zoogestures.uni-koeln.de/people/johannes-f-m-schick) [Photo? One from the inauguration speech would be nice]
 
 **1. What is your role in ZOOGESTURES, and how does it connect to the project's major objectives?**
@@ -79,8 +104,12 @@ Deadline: 15th of October
 **Johannes Schick delivered his habilitation lecture “„Wir hätten nur noch einen Technologen gebraucht, um vollständig zu sein“ (Marcel Mauss) – Über den Versuch einer interdisziplinären Technikanthropologie“ [„"All we needed was a technologist to be complete" (Marcel Mauss) - On the attempt to develop an interdisciplinary anthropology of technology] on the 1st of June.**
 
 **Many congratulations from the team!**
+</div>
 
-## New Publications
+
+## Publications
+
+### New
 
 - **Hussain, S. T.**, and D. Ohrem (2026). ‘Learning Environments with Other Animals.’ *Humanimalia* 16 (2): 251–295. ([https://doi.org/10.52537/humanimalia.23616](https://doi.org/10.52537/humanimalia.23616))
 
@@ -88,7 +117,8 @@ Deadline: 15th of October
 
 [Add any if relevant, starting in Jan 2026]
 
-## Forthcoming/Submitted Publications
+
+### Forthcoming/Submitted 
 
 - **Hussain, S.T.** and T. Breyer (forthcoming fall 2026). *Re-Calibrating Phenomenological Archaeology: More-than-human Lifeworlds*. Cambridge University Press, Elements in 21st Century Anthropological Archaeology.
 
@@ -98,9 +128,11 @@ Deadline: 15th of October
 
 - De Carvalho Cabral, D., and **S.T. Hussain** (submitted). *Inventing Brazil’s Saúvas: Eventful Megahistories of Human-Ant Coexistence in Greater Amazonia*. Cambridge University Press, Elements in Environmental Humanities.
 
-[Add any if relevant, starting what has been submitted in Jan 26]
+[Add any relevant publications submitted since January 2026]
+
 
 ## Ongoing Work
+<div class="news-item">
 
 - The ZOOGESTURES team is currently planning the 1st project workshop to be held in Cologne in November 2026 and its joint primatological-anthropological fieldwork programme, starting in 2027.
 
@@ -112,14 +144,26 @@ Deadline: 15th of October
 
 - [add other relevant stuff, etc.]
 
-## Photo Gallery
+</div>
+
+</div>
+
+
+
+<div class="photo-gallery">
+
+# PHOTO GALLERY
 
 ![](Blaetterhoehle1.jpeg)
 
 ![Rebekka and Shumon had the chance to join colleagues in an excursion to the Blätterhöhle/Hamm, a cave site famous for its Palaeolithic and younger assemblages. Here we see us preparing to crawl into the cave and a view of Shumon with Karin Kindermann and the head of excavations Wolfgang Heuschen inside the cave.](Blaetterhoehle2.jpg)
 
 
+<br>
 
-![Johannes doing spontaneous fieldwork on multispecies encounters during his vacation.](J_Donkey.jpeg)
+<img src="J_Donkey.jpeg" alt="Johannes doing spontaneous fieldwork on multispecies encounters during his vacation.">
+
+<p><em>Johannes doing spontaneous fieldwork on multispecies encounters during his vacation.</em></p>
+</div>
 
 
