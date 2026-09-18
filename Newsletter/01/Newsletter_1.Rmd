@@ -13,19 +13,185 @@ editor_options:
     wrap: 72
 ---
 
+Welcome! This newsletter brings together two projects rethinking the deep-time evolution of human technology. <strong><a href="https://zoogestures.uni-koeln.de/" class="zoogestures-name">ZOOGESTURES</a></strong> explores the overlooked role of nonhuman animal gestures in inspiring and scaffolding technical learning and innovation in early human evolution. <strong><a href="https://ecolithic.uni-koeln.de/" class="ecolithic-name">ECOLITHIC</a></strong> develops a radical new ecosystems view of long-term Palaeolithic stone tool evolution. Together, they open up fresh perspectives on how humans became technological beings – never alone, but always in relation to their wider world!
+
+<br>
+
+
 <div class="ecolithic">
 
-# ECOLITHIC: A Radical Ecosystems View of Lithic Macro-Evolution 
 
-## ECOLITHIC workshop
+# ECOLITHIC: A Radical Ecosystems View of Lithic Macro-Evolution
 
-### 
+## Happenings
 
-hello we had fun!
+<div class="news-item">
 
-## Welcoming Rebekka in ZOOGESTURES!
+### **Anaïs L. Vignoles joins ECOLITHIC** (January 1)
 
-qsfhgqsjdklùfgq
+Anaïs L. Vignoles joins the University of Cologne and the ECOLITHIC project as a post-doctoral researcher, supporting the team for the next 2 years. She is a prehistoric archaeologist interested in lithic technological evolution, the dynamic interaction of material culture and climate on evolutionary time scales, and the relationship between ecological and technological diversity. In the project, she explores how technical systems coexist in the Late Middle and Upper Palaeolithic of southwestern France, with a focus on Gravettian blade and bladelet technology.
+
+[add photo]
+
+</div>
+
+<div class="news-item">
+
+### **ECOLITHIC launch event at the Department for Prehistoric Archaeology** (January 9)
+
+We successfully launched the project and welcomed new ECOLITHIC post-doctoral researcher Anaïs L. Vignoles in Cologne. Shumon T. Hussain presented an overview of the work programme and shared some initial project ideas to be developed and tested in the next 3 years. The launch was followed by a cosy get-together with drinks and lively discussions into the late evening.
+
+[add photo]
+
+</div>
+
+<div class="news-item">
+
+### **Igor Djakovic visits the ECOLITHIC team in Cologne** (March 9–10)
+
+PhD researcher Igor Djakovic from the Human Origins group of the Faculty of Archaeology at Leiden University, the Netherlands, visited us for two days, presenting ongoing work on the Late Middle Palaeolithic sequence of Le Moustier and discussing all matters lithic technology and technological coexistence.
+
+</div>
+
+<div class="news-item">
+
+### **ECOLITHIC presents first ideas at the 67th Annual Meeting of the Hugo-Obermaier Society in Ferrara, Italy** (April 7–11)
+
+Shumon T. Hussain and Anaïs L. Vignoles gave their first joint presentation of the ECOLITHIC project and its objectives at the 67th Annual Meeting of the [Hugo-Obermaier Society in Ferrara, Italy](https://obermaier-gesellschaft.de/uncategorized/67-jahrestreffen-7-11-april-2026-in-ferrara-italien/). They spent a lovely week listening to interesting presentations, networking, as well as eating pasta and ice-cream. The conference concluded with a field trip to the iconic Middle and Early Upper Palaeolithic site of Fumane and a group visit of the National Archaeological Museum of Verona.
+
+
+![Anaïs (second from the left) and Shumon (right) at the Hugo-Obermaier meeting in Ferrara, 9 April 2026.](Ferrara2026.jpg)
+
+</div>
+
+<div class="news-item">
+
+### **Visit in Ravenna to explore international collaborations** (April 12–17)
+
+Shumon T. Hussain spent a week at the Department of Cultural Heritage of the University of Bologna campus in Ravenna to work with Giulia Marciani (Bologna) and Serena Lombardo (Tübingen) on questions of bipolar technology and technological coexistence in the lithic bipolar milieu during the Upper Palaeolithic. Shumon also presented ongoing research in the ECOLITHIC project.
+
+![Giulia (left) and Shumon (right) in Ravenna.](Ravenna1.jpg)
+
+![Some very old stone artefacts.](Ravenna2.jpg)
+
+</div>
+
+<div class="news-item">
+
+### **First ECOLITHIC Workshop in Cologne** (April 21–23)
+
+Anaïs L. Vignoles and Shumon T. Hussain hosted a 4-day international workshop with the external project collaborators to discuss interdisciplinary perspectives on long-term macroevolution and to develop a new research framework for studying it in and testing it against the Pleistocene archaeological record. Using the facilities of MESH and the Department for Prehistoric Archaeology, we discussed higher-level system properties (Hussain), synergy (Vignoles), hierarchical organization (Temkin), scaling and scale-dependency (Spiridonov), collaborative decision-making (Barfuss), invention and evolvability (Charbonneau), relational network thinking including hypergraphs (Valverde), and technological enactivism (Feiten).
+
+![Anaïs presenting on the synergy hypothesis and its relevance for understanding long-term technological change in the Palaeolithic.](EcolithicWS1.jpg)
+
+![Sergi talking about technological tinkering and hypergraph methods in the analysis of technological ecosystems.](EcolithicWS2.jpg)
+
+</div>
+
+<div class="news-item">
+
+### **Visit to the TRACES lab in Toulouse** (May 7)
+
+Anaïs L. Vignoles was invited to give a presentation on her ongoing work at the TRACES lab’s SMP3C (*Sociétés et milieux des populations de chasseurs-cueilleurs-collecteurs*) team meeting. It was a good occasion to present some of the objectives of the project as well as initial ideas and results of the team’s work.
+
+</div>
+
+<div class="news-item">
+
+### **Sébastien Plutniak visits the ECOLITHIC team in Cologne** (June 29–30)
+
+Senior CNRS researcher Sébastien Plutniak from the CITERES-LAT laboratory in Tours, France, visited us for two days to discuss computational archaeology and open science. He also presented some aspects of his ongoing work on digital epistemologies and refitting in the recurring meeting series of the Palaeolithic Research Unit (FAST) at the Department of Prehistoric Archaeology (title of the talk: “On Archaeological Uncertainty. Or Why and How Refitting Analysis Matters”).
+
+[add photo if you have one]
+
+</div>
+
+<div class="news-item">
+
+### **ECOLITHIC at the 16th Annual Meeting of the European Society for the Study of Human Evolution [(ESHE)](https://www.eshe.eu/meetings/) in Burgos, Spain** (September 17–19)
+
+
+Shumon T. Hussain presented a poster outlining the project’s newly developed multi-level research framework for the study of lithic macroevolution, anchored in the idea of a “holarchy” of technological organization.
+
+[add photo]
+
+</div>
+
+
+## Announcements
+
+<div class="news-item">
+
+### **ECOLITHIC at the HESCOR Virtual Exhibition** (October 23)
+
+ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR]((https://www.hescor-project.com/)) Virtual Exhibition on October 23, hosting its own virtual room and showcasing some key ideas and initial results of the project. The HESCOR Virtual Exhibition aims to present research conducted during the University of Cologne’s 3-year, cross-faculty research initiative HESCOR (*Human & Earth System Coupled Research*) to a broader audience. HESCOR has brought into dialogue Earth system science and the humanities to better understand and integrate human agency into Earth system modelling.
+
+</div>
+
+
+
+## Meeting the Team
+
+<div class="news-item">
+
+### **[Name of Person in Video]**
+
+[Add link or information on the video interviews].
+
+</div>
+
+
+## Publications
+
+### New 
+
+- **Hussain, S.T.** (2024). ‘Transformation analysis and systems-theory: from micro-scale lithic technical systems to macro-scale lithic ecosystems.’ In: Th. Uthmeier and A. Maier (eds.), *Studying Technologies of Non-Analogous Environments and Glacial Ecosystems. Papers in Honor of Jürgen Richter*, pp. 531–547. Bonn: Habelt.
+
+- **Hussain, S.T.** (2025). ‘“Intentions do not fossilize” – Unpacking problematic domain-assumptions in Pleistocene lithic studies.’ In: Hussain, S.T. and G.L. Dusseldorp (eds.), *“Sitting on the fence”: Negotiating archaeology, anthropology, and philosophy. Festschrift for Prof. Dr Raymond H.A. Corbey in celebration of his 70th birthday*, pp. 103–114. Leiden: Sidestone Press. [https://www.sidestone.com/books/sitting-on-the-fence](https://www.sidestone.com/books/sitting-on-the-fence)
+
+- Vaesen, K., and **S.T. Hussain** (2026). ‘The Perks and Perils of Replicability’. *American Antiquity* 91: 437–444. [https://doi.org/10.1017/aaq.2025.10146](https://doi.org/10.1017/aaq.2025.10146)
+
+- **Hussain, S.T.** (2026). ‘Replication as Salvation: The Politics of Open Science and the Recurring Allure of Scientism in Deep-Time Lithic Studies’. *Journal of Paleolithic Archaeology* 9: 15. [https://doi.org/10.1007/s41982-026-00261-6](https://doi.org/10.1007/s41982-026-00261-6)
+
+
+### Forthcoming/Submitted 
+
+- **Hussain, S.T.** (submitted). ‘Holotechnologies: Trading Theory for A New Macroarchaeology of Large-Scale Technological Structures.’ *Ethnographisch-Archäologische Zeitschrift* (EAZ).
+
+- **Hussain, S.T.**, **A.L. Vignoles**, M. Charbonneau, T.E. Feiten, A. Spiridonov, I. Tëmkin, and S. Valverde (submitted). ‘Technospheric Dynamics in the Deep Human Past: Multi-Level Causation in the Macroevolution of Late Pleistocene Lithic Technology.’ *Journal of Quaternary Science*.
+
+- **Hussain, S.T.**, Ohrem, O., Bartosch, R., Schwegler, C., Stutz, A.J., Simon, Z.B., and Rigby, K. (submitted). ‘Earth System Agency and Telecausality: Bringing the Earth Sciences and the Environmental Humanities into Conversation.’ *Journal of Quaternary Science*.
+
+- Vidiella, B., G. Nicoletti, R. Fernández, A. Spiridonov, A. Sanchez, **S.T. Hussain**, and S. Valverde (submitted). ‘Higher-order assembly and emergent persistence in biology.’ *Current Opinion in Systems Biology*.
+
+- Plutniak, S., **S.T. Hussain**, and F. Riede (forthcoming fall 2026). *Between variability and singularity: crossing theoretical, qualitative and computer-based approaches to types and typologies in archaeology*. Leiden: Sidestone Press. [https://www.sidestone.com/books/between-variability-and-singularity](https://www.sidestone.com/books/between-variability-and-singularity)
+
+- Plutniak, S., **S.T. Hussain**, and F. Riede (forthcoming fall 2026). ‘Typologising archaeological typologies: Motivation, structure and the making of a digitally augmented edited volume.’ In: S. Plutniak, S.T. Hussain, and F. Riede (eds.), *Between variability and singularity: crossing theoretical, qualitative and computer-based approaches to types and typologies in archaeology*, pp. 7–20. Leiden: Sidestone Press. [https://www.sidestone.com/books/between-variability-and-singularity](https://www.sidestone.com/books/between-variability-and-singularity)
+
+- **Hussain, S.T.** (forthcoming fall 2026). ‘The Loss of Typological Innocence: Pluralism in the Epistemology and Ontology of Archaeological Typo-Praxis’. In: Plutniak, S., Hussain, S.T. and Riede, F. (eds.), *Between variability and singularity: crossing theoretical, qualitative and computer-based approaches to types and typologies in archaeology*, pp. 65–104. Leiden: Sidestone Press. [https://www.sidestone.com/books/between-variability-and-singularity](https://www.sidestone.com/books/between-variability-and-singularity)
+
+- **Hussain, S.T.** (forthcoming fall 2026). ‘Do we need (more) humble typologies?’ In: S. Plutniak, S.T. Hussain, and F. Riede (eds.), *Between variability and singularity: crossing theoretical, qualitative and computer-based approaches to types and typologies in archaeology*, pp. 257–268. Leiden: Sidestone Press. [https://www.sidestone.com/books/between-variability-and-singularity](https://www.sidestone.com/books/between-variability-and-singularity)
+
+
+## Ongoing Work
+
+<div class="news-item">
+
+- The ECOLITHIC team is working on a joint paper on the configuration of lithic ecosystems involving bipolar reduction technology during the Upper Palaeolithic in Mediterranean Europe, in collaboration with Giulia Marciani and Serena Lombardo.
+
+</div>
+
+<div class="news-item">
+
+- Sergi Valverde (Barcelona) and Shumon T. Hussain are working on a joint paper examining the nonlinear, multi-level dynamics of multi-domain lithic technological change in the Final Palaeolithic of Europe.
+
+</div>
+
+<div class="news-item">
+
+- The ECOLITHIC team is developing a regional macro-archaeological database of technical systems’ co-occurrence during the critical time frame of the Late Middle Palaeolithic and Upper Palaeolithic in southwestern France. Two online mini-workshops were so far organized on May 13 and September 9 to discuss the approach and data framework with French colleagues. The team is currently preparing a larger 3-day in-person workshop at Les Eyzies in the Dordogne region to discuss things further with experts on the lithic record of the area.
+
+</div>
 
 </div>
 

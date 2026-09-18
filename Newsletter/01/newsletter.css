@@ -2,6 +2,28 @@
    Stones & Animals Newsletter
    ----------------------------------------- */
 
+/* -----------------------------------------
+   INTRODUCTION
+   ----------------------------------------- */
+
+
+a.zoogestures-name,
+a.zoogestures-name:visited {
+  color: #d6a900 !important;
+}
+
+a.ecolithic-name,
+a.ecolithic-name:visited {
+  color: #7aa33c !important;
+}
+
+a.zoogestures-name:hover {
+  color: #d6a900 !important;
+}
+
+a.ecolithic-name:hover {
+  color: #7aa33c !important;
+}
 
 /* -----------------------------------------
    PROJECT HEADINGS
