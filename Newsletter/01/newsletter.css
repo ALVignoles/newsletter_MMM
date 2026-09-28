@@ -88,3 +88,14 @@ a.ecolithic-name:hover {
   color: #307EF2;
   margin-bottom: 1.5em;
 }
+
+
+/* -----------------------------------------
+   IMAGE CAPTIONS
+   ----------------------------------------- */
+
+p.caption,
+figcaption,
+.figcaption {
+  font-style: italic;
+}

@@ -23,7 +23,11 @@ Welcome! This newsletter brings together two projects rethinking the deep-time e
 
 # ECOLITHIC: A Radical Ecosystems View of Lithic Macro-Evolution
 
+<strong><a href="https://ecolithic.uni-koeln.de/" class="ecolithic-name">ECOLITHIC</a></strong> is the acronym for “A Radical Ecosystems View of Lithic Macro-Evolution”. It is a new 3-year, interdisciplinary project generously funded through the [VolkswagenFoundation’s “Pioneering Research – Exploring the Unknown Unknown” funding line](https://www.volkswagenstiftung.de/en/funding/funding-offer/pioneering-research-exploring-unknown-unknown). In the project, archaeologists, environmental humanities scholars, philosophers of technology, evolutionary theorists, paleontologists as well as Earth system, complexity, and network scientists work together to develop novel perspectives on long-term technological change in the human deep past, roughly spanning the timeframe between 120,000 and 15,000 years ago in Europe, the periods archaeologists describe as Middle and Upper Palaeolithic. Inspired by the proliferation of “planetary” thinking and the undertheorized scalability of technology, ECOLITHIC aims to explore the organizational properties of higher-order technological worlds. It proposes that a true macro-archaeology of long-term evolution in early technologies such as stone artefact production and use needs to pay closer attention to how different technical systems assemble, interact, and become integrated in broader ecosystems of technical action and knowledge.
+
+
 ## Happenings
+
 
 <div class="news-item">
 
@@ -31,9 +35,8 @@ Welcome! This newsletter brings together two projects rethinking the deep-time e
 
 Anaïs L. Vignoles joins the University of Cologne and the ECOLITHIC project as a post-doctoral researcher, supporting the team for the next 2 years. She is a prehistoric archaeologist interested in lithic technological evolution, the dynamic interaction of material culture and climate on evolutionary time scales, and the relationship between ecological and technological diversity. In the project, she explores how technical systems coexist in the Late Middle and Upper Palaeolithic of southwestern France, with a focus on Gravettian blade and bladelet technology.
 
-[add photo]
-
 </div>
+
 
 <div class="news-item">
 
@@ -41,9 +44,8 @@ Anaïs L. Vignoles joins the University of Cologne and the ECOLITHIC project as 
 
 We successfully launched the project and welcomed new ECOLITHIC post-doctoral researcher Anaïs L. Vignoles in Cologne. Shumon T. Hussain presented an overview of the work programme and shared some initial project ideas to be developed and tested in the next 3 years. The launch was followed by a cosy get-together with drinks and lively discussions into the late evening.
 
-[add photo]
-
 </div>
+
 
 <div class="news-item">
 
@@ -52,6 +54,7 @@ We successfully launched the project and welcomed new ECOLITHIC post-doctoral re
 PhD researcher Igor Djakovic from the Human Origins group of the Faculty of Archaeology at Leiden University, the Netherlands, visited us for two days, presenting ongoing work on the Late Middle Palaeolithic sequence of Le Moustier and discussing all matters lithic technology and technological coexistence.
 
 </div>
+
 
 <div class="news-item">
 
@@ -64,6 +67,7 @@ Shumon T. Hussain and Anaïs L. Vignoles gave their first joint presentation of 
 
 </div>
 
+
 <div class="news-item">
 
 ### **Visit in Ravenna to explore international collaborations** (April 12–17)
@@ -71,6 +75,7 @@ Shumon T. Hussain and Anaïs L. Vignoles gave their first joint presentation of 
 Shumon T. Hussain spent a week at the Department of Cultural Heritage of the University of Bologna campus in Ravenna to work with Giulia Marciani (Bologna) and Serena Lombardo (Tübingen) on questions of bipolar technology and technological coexistence in the lithic bipolar milieu during the Upper Palaeolithic. Shumon also presented ongoing research in the ECOLITHIC project.
 
 ![Giulia (left) and Shumon (right) in Ravenna.](Ravenna1.jpg)
+<br>
 
 ![Some very old stone artefacts.](Ravenna2.jpg)
 
@@ -84,9 +89,12 @@ Anaïs L. Vignoles and Shumon T. Hussain hosted a 4-day international workshop w
 
 ![Anaïs presenting on the synergy hypothesis and its relevance for understanding long-term technological change in the Palaeolithic.](EcolithicWS1.jpg)
 
+<br>
+
 ![Sergi talking about technological tinkering and hypergraph methods in the analysis of technological ecosystems.](EcolithicWS2.jpg)
 
 </div>
+
 
 <div class="news-item">
 
@@ -113,9 +121,19 @@ Senior CNRS researcher Sébastien Plutniak from the CITERES-LAT laboratory in To
 
 Shumon T. Hussain presented a poster outlining the project’s newly developed multi-level research framework for the study of lithic macroevolution, anchored in the idea of a “holarchy” of technological organization.
 
-[add photo]
 
 </div>
+
+<div class="news-item">
+
+### **“Digital Minds or Digital Mines” session in Bonn** (September 21-22)
+
+Shumon T. Hussain and Sheena Bartscherer from the Robert K. Merton Center for Research on Science in Berlin participated in a session aiming to develop critical perspectives on digital and computational archaeologies, organized by the Working Group for Theoretical Archaeology ([TiDA](https://www.agtida.de/)) as a part of the annual meeting of the association of West, South, Northwest, Central and East German studies of antiquity and prehistory. They contributed to discussions and presented their vision of a “Critical archaeology of Open Science and Replication”.
+
+![Shenna (left) and Shumon (right) in Bonn.](Bonn.jpg)
+
+</div>
+
 
 
 ## Announcements
@@ -196,9 +214,13 @@ ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR]((https://www.
 </div>
 
 
+<br>
+
 <div class="zoogestures">
 
 # ZOOGESTURES - Interspecies Learning and Technical Invention in Early Human Evolution
+
+<strong><a href="https://zoogestures.uni-koeln.de/" class="zoogestures-name">ZOOGESTURES</a></strong> is the acronym for “The Zoomorphology of Gestures: Interspecies Learning and Technical Invention in Early Human Evolution”. It is a 4-year, collaborative and cross-university project integrating archaeological (Cologne), philosophical and anthropological (Siegen), as well as primatological (St Andrews) lines of inquiry into human and nonhuman gestural and technical behaviour to develop a novel research programme to better understand how humans and nonhumans may have inspired and learnt from each other over evolutionary timescales. Generously funded through the [VolkswagenFoundation’s “Pioneering Research – Exploring the Unknown Unknown” funding line](https://www.volkswagenstiftung.de/en/funding/funding-offer/pioneering-research-exploring-unknown-unknown), ZOOGESTURES combines theory-work, cross-period synthesis and comparison, as well as fieldwork in Africa (and possibly elsewhere) to explore the significance of cross-species cohabitation and interaction for the evolution of behavioural novelty, in particular the hitherto overlooked role of other animals in processes of human technical invention.
 
 ## Happenings
 
@@ -255,21 +277,31 @@ Deadline: 15th of October
 ## Meeting the Team
 
 <div class="news-item">
-### Today: [Johannes Schick](https://zoogestures.uni-koeln.de/people/johannes-f-m-schick) [Photo? One from the inauguration speech would be nice]
+### Today: [Johannes Schick](https://zoogestures.uni-koeln.de/people/johannes-f-m-schick)
 
 **1. What is your role in ZOOGESTURES, and how does it connect to the project's major objectives?**
 
+I understand my role as “interdisciplinary anthropologist”, I.e. I attempt to operate in between the disciplines to draw conclusions from the empirical research for a theoretical, techno-anthropological framework. So I hope to develop a theory that accounts for the invention of technical gestures as multi species event. This would in turn also allow to shed new light on archaeological and primatological findings.
+
 **2. How does your past or ongoing research feed into the project and shape its interdisciplinary perspective**
+
+Well, I have been working for a long time on questions of how to conceive of an interdisciplinary anthropology and of how the categories of the human mind are generated. The project provides an opportunity to test my theory and to apply it to multispecies studies. I hope that my focus on practices and processes also co-shapes how we approach our work as a team.
 
 **3. What are you working on at the moment, and what is especially exciting about it?**
 
+At the moment I work on Simondon’s concept of the “associated milieu” as a condition of possibility for multispecies technical gestures. It allows me to push the limits of the concept and see if it fits to the phenomena and findings from archeology and primatology.
+
 **4. What's one surprising insight you've had while working on this research?**
 
-[Please add answers of max. 2-3 sentences per question – you are free to modify the questions as well if you think it necessary.]
+I am constantly surprised by the abilities of animals. So far, all the empirical examples of multispecies co-habitation, co-evolution and co-culture have been surprising. Just now, I read how sika deer and macaques form social relations with each other.
+
 
 **Johannes Schick delivered his habilitation lecture “„Wir hätten nur noch einen Technologen gebraucht, um vollständig zu sein“ (Marcel Mauss) – Über den Versuch einer interdisziplinären Technikanthropologie“ [„"All we needed was a technologist to be complete" (Marcel Mauss) - On the attempt to develop an interdisciplinary anthropology of technology] on the 1st of June.**
 
 **Many congratulations from the team!**
+
+![Johannes successfully completing his habilitation lecture!](J_lecture.jpg)
+
 </div>
 
 
@@ -281,7 +313,6 @@ Deadline: 15th of October
 
 - **Hussain, S.T.** (2026). ‘Animals and Humans in the Paleolithic’. In: A. Mertig (ed.), *Research Handbook on Animals and Society*, pp. 66–89. Cheltenham: Edward Elgar Publishing. ([https://www.elgaronline.com/edcollbook/book/9781035300099/9781035300099.xml](https://www.elgaronline.com/edcollbook/book/9781035300099/9781035300099.xml))
 
-[Add any if relevant, starting in Jan 2026]
 
 
 ### Forthcoming/Submitted 
@@ -290,11 +321,13 @@ Deadline: 15th of October
 
 - **Hussain, S.T.**, and D. Ohrem (forthcoming 2027). ‘Beyond the Mangle of Culture: Lifeforms as Units of More-Than-Human Interdisciplinary History.’ In: H. Feder, S. McFahrland (eds.), *The Critical Question of Animal Cultures*. Routledge. (Zenodo Preprint: [https://doi.org/10.5281/zenodo.17113299](https://doi.org/10.5281/zenodo.17113299))
 
+- **Schick, J. (2027)** (forthcoming 2027). ‘The Technicity of Intuition: Methodological Reflections for a Process 
+Philosophy of Technology.’ In: M. T. Young, M. Coekelbergh (eds.), *Process Philosophy and Technology. New Directions*. New York/London, Routledge.
+
 - **Hussain, S.T.** (submitted). ‘Multispecies vulnerability, resilience, and sustainability: Re-storying catastrophic archaeological pasts.’ *Humanimalia*.
 
 - De Carvalho Cabral, D., and **S.T. Hussain** (submitted). *Inventing Brazil’s Saúvas: Eventful Megahistories of Human-Ant Coexistence in Greater Amazonia*. Cambridge University Press, Elements in Environmental Humanities.
 
-[Add any relevant publications submitted since January 2026]
 
 
 ## Ongoing Work
@@ -308,7 +341,13 @@ Deadline: 15th of October
 
 - [Johannes]
 
-- [add other relevant stuff, etc.]
+
+</div>
+
+
+## Upcoming activities
+<div class="news-item">
+In early October, Rebekka Eckelmann and Shumon T. Hussain will visit [Nathalie Brusgaard](https://www.universiteitleiden.nl/en/staffmembers/nathalie-brusgaard#tab-1) and her team at Leiden University’s Faculty of Archaeology to explore synergies and future collaborations between ZOOGESTURES and Nathalie’s new ERC Starting Grant project on the complexity and diversity of human-animal coexistence at the Mesolithic-Neolithic interface in the Netherlands, Central Germany, and Southern Sweden.
 
 </div>
 
@@ -325,6 +364,7 @@ Deadline: 15th of October
 ![Rebekka and Shumon had the chance to join colleagues in an excursion to the Blätterhöhle/Hamm, a cave site famous for its Palaeolithic and younger assemblages. Here we see us preparing to crawl into the cave and a view of Shumon with Karin Kindermann and the head of excavations Wolfgang Heuschen inside the cave.](Blaetterhoehle2.jpg)
 
 
+
 <br>
 
 <img src="J_Donkey.jpeg" alt="Johannes doing spontaneous fieldwork on multispecies encounters during his vacation.">
@@ -333,3 +373,46 @@ Deadline: 15th of October
 </div>
 
 
+
+<!-- ===== Back to Top Button ===== -->
+<button id="backToTop" title="Back to top">↑</button>
+
+<style>
+#backToTop {
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: #307EF2;
+  color: white;
+  cursor: pointer;
+  padding: 12px 16px;
+  border-radius: 50%;
+  font-size: 18px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  transition: opacity 0.3s, background-color 0.3s;
+}
+
+#backToTop:hover {
+  background-color: #1a5fc4;
+}
+</style>
+
+<script>
+var backToTopBtn = document.getElementById("backToTop");
+
+window.onscroll = function() {
+  if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+    backToTopBtn.style.display = "block";
+  } else {
+    backToTopBtn.style.display = "none";
+  }
+};
+
+backToTopBtn.addEventListener("click", function() {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+</script>
