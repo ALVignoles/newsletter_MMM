@@ -214,6 +214,7 @@ ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR]((https://www.
 </div>
 
 
+
 <br>
 
 <div class="zoogestures">
@@ -225,12 +226,14 @@ ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR]((https://www.
 ## Happenings
 
 <div class="news-item">
-### **Matt Henderson joins ZOOGESTURES** (March 1)
+### **Matthew Henderson joins ZOOGESTURES** (March 1)
 
-[Matt]
+[Matthew joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/matthew-henderson) as a postdoctoral researcher and comparative psychologist, with a background of behavioural primatology and gestural communication. His PhD explored how the ‘human-ape’ retains access to a shared ape-typical gestural repertoire, and how this bodily communication system has scaffolded for the emergence of language. For the ZOOGESTURES project, he brings his experience of human and nonhuman ape research across varied environments to help explore the influence that cross-species learning has had (and still has) across hominids.
+
 </div>
 
 <div class="news-item">
+
 ### **Rebekka I.I. Eckelmann joins ZOOGESTURES** (June 1)
 
 [Rebekka joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/rebekka-ii-eckelmann) as a postdoctoral researcher and multispecies archaeologist, with a background in faunal osteology and isotope biogeochemistry. Her research explores how human–nonhuman relationships shaped past subsistence, social organisation and technological practices. Within ZOOGESTURES, she brings an archaeological perspective to past socio-zoo-technical relations.
@@ -321,12 +324,13 @@ I am constantly surprised by the abilities of animals. So far, all the empirical
 
 - **Hussain, S.T.**, and D. Ohrem (forthcoming 2027). ‘Beyond the Mangle of Culture: Lifeforms as Units of More-Than-Human Interdisciplinary History.’ In: H. Feder, S. McFahrland (eds.), *The Critical Question of Animal Cultures*. Routledge. (Zenodo Preprint: [https://doi.org/10.5281/zenodo.17113299](https://doi.org/10.5281/zenodo.17113299))
 
-- **Schick, J. (2027)** (forthcoming 2027). ‘The Technicity of Intuition: Methodological Reflections for a Process 
-Philosophy of Technology.’ In: M. T. Young, M. Coekelbergh (eds.), *Process Philosophy and Technology. New Directions*. New York/London, Routledge.
+- **Schick, J. (2027)** (forthcoming 2027). ‘The Technicity of Intuition: Methodological Reflections for a Process Philosophy of Technology.’ In: M. T. Young, M. Coekelbergh (eds.), *Process Philosophy and Technology. New Directions*. New York/London, Routledge.
 
 - **Hussain, S.T.** (submitted). ‘Multispecies vulnerability, resilience, and sustainability: Re-storying catastrophic archaeological pasts.’ *Humanimalia*.
 
 - De Carvalho Cabral, D., and **S.T. Hussain** (submitted). *Inventing Brazil’s Saúvas: Eventful Megahistories of Human-Ant Coexistence in Greater Amazonia*. Cambridge University Press, Elements in Environmental Humanities.
+
+- **Johannes F.M. Schick** (Submitted). ‘Zoogestures. A transindividual theory of multispecies technics’. In: Philosophy and Technology, Springer. 
 
 
 
@@ -335,11 +339,11 @@ Philosophy of Technology.’ In: M. T. Young, M. Coekelbergh (eds.), *Process Ph
 
 - The ZOOGESTURES team is currently planning the 1st project workshop to be held in Cologne in November 2026 and its joint primatological-anthropological fieldwork programme, starting in 2027.
 
-- [Matt + Cat]
+- Matt has been investigating examples of medicinal practices nonhuman animals and reports of which have been learned by humans to help understand general biases of what humans pay-attention to from nonhuman species (mostly focussing on relatedness and proximity biases). So far, he collected 186 cases of animal medicinal behaviour across 141 taxa, testing relatedness and proximity as explanations for which practices crossed into human use. He has also been working on making new software tools to help code audio/video data and to run/share experiments easily in remote fieldwork conditions. This includes a bioacoustics software focused on coding bioacoustics data (onset timing, rhythm metrics, linking audio to video) for the initial Environmental Landscape Rhythm project exploring on cross-species rhythmic alignment between (e.g., chimpanzee drumming, bird song, human soundscapes) with the hope to extend it into other kinds of data coding as well. A second software is an offline, cross-platform experiment running app with a full experiment builder, any-language or icon-only interfaces and basic on-device gaze tracking/gyro tracking. Already rebuilt the Wild Mind Lab’s completed ‘Great Ape Dictionary’ study that was originally run on gorilla.sc (which requires persistent online connection to work) which can be shared with communities of people who have differing moral/ethical concerns for chimpanzees to understand the role this plays in understanding communicative behaviours in these species.
 
 - Rebekka is exploring how animals could have shaped technological learning, beginning with enigmatic marine animals as a first area of investigation. Alongside this, she and colleagues are working with the role of hares and multispecies learning in two Neolithic contexts.
 
-- [Johannes]
+- Johannes is currently working on Simondon’s concept of the “associated milieu” as a condition of possibility for multispecies technical gestures. Furhermore, he is researching how the genesis of the categories of human understanding is co-constituted by multi-species relations and whether or not containers as fundamental technologies can also be considered as Zoogestures.
 
 
 </div>
@@ -352,6 +356,7 @@ In early October, Rebekka Eckelmann and Shumon T. Hussain will visit [Nathalie B
 </div>
 
 </div>
+
 
 
 
