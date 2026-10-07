@@ -86,7 +86,7 @@ Shumon T. Hussain spent a week at the Department of Cultural Heritage of the Uni
 
 ### **First ECOLITHIC Workshop in Cologne** (April 21–23)
 
-Anaïs L. Vignoles and Shumon T. Hussain hosted a 4-day international workshop with the external project collaborators to discuss interdisciplinary perspectives on long-term macroevolution and to develop a new research framework for studying it in and testing it against the Pleistocene archaeological record. Using the facilities of MESH and the Department for Prehistoric Archaeology, we discussed higher-level system properties (Hussain), synergy (Vignoles), hierarchical organisation (Temkin), scaling and scale-dependency (Spiridonov), collaborative decision-making (Barfuss), invention and evolvability (Charbonneau), relational network thinking including hypergraphs (Valverde), and technological enactivism (Feiten).
+Anaïs L. Vignoles and Shumon T. Hussain hosted a 4-day international workshop with the external project collaborators to discuss interdisciplinary perspectives on long-term macroevolution and to develop a new research framework for studying it in and testing it against the Pleistocene archaeological record. Using the facilities of MESH and the Department for Prehistoric Archaeology, we discussed higher-level system properties (Hussain), synergy (Vignoles), hierarchical organisation (Ilya Tëmkin, George Mason University), scaling and scale-dependency (Andrej Spiridonov, Vilnius University), collaborative decision-making (Wolfram Barfuss, Bonn University), invention and evolvability (Mathieu Charbonneau, Mohammed VI Polytechnic University), relational network thinking including hypergraphs (Sergi Valverde, CSIC Barcelona), and technological enactivism (Tim E. Feiten, Pennsylvania State University).
 
 ![Anaïs presenting on the synergy hypothesis and its relevance for understanding long-term technological change in the Palaeolithic.](EcolithicWS1.jpg)
 
@@ -125,7 +125,7 @@ Shumon T. Hussain presented a poster outlining the project’s newly developed m
 
 <div class="news-item">
 
-### **“Digital Minds or Digital Mines” session in Bonn** (September 21-22)
+### **“Digital Minds or Digital Mines” session in Bonn** (September 21–22)
 
 Shumon T. Hussain and Sheena Bartscherer from the Robert K. Merton Center for Research on Science in Berlin participated in a session aiming to develop critical perspectives on digital and computational archaeologies, organised by the Working Group for Theoretical Archaeology ([TiDA](https://www.agtida.de/)) as a part of the annual meeting of the association of West, South, Northwest, Central and East German studies of antiquity and prehistory. They contributed to discussions and presented their vision of a “Critical archaeology of Open Science and Replication”.
 
@@ -141,7 +141,7 @@ Shumon T. Hussain and Sheena Bartscherer from the Robert K. Merton Center for Re
 
 ### **ECOLITHIC at the HESCOR Virtual Exhibition** (October 23)
 
-ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR]((https://www.hescor-project.com/)) Virtual Exhibition on October 23, hosting its own virtual room and showcasing some key ideas and initial results of the project. The HESCOR Virtual Exhibition aims to present research conducted during the University of Cologne’s 3-year, cross-faculty research initiative HESCOR (*Human & Earth System Coupled Research*) to a broader audience. HESCOR has brought into dialogue Earth system science and the humanities to better understand and integrate human agency into Earth system modelling.
+ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR](https://www.hescor-project.com/) Virtual Exhibition on October 23, hosting its own virtual room and showcasing some key ideas and initial results of the project. The HESCOR Virtual Exhibition aims to present research conducted during the University of Cologne’s 3-year, cross-faculty research initiative HESCOR (*Human & Earth System Coupled Research*) to a broader audience. HESCOR has brought into dialogue Earth system science and the humanities to better understand and integrate human agency into Earth system modelling.
 
 </div>
 
@@ -150,6 +150,8 @@ ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR]((https://www.
 ## Meeting the Team
 
 <div class="news-item">
+
+During the first ECOLITHIC workshop team members 
 
 ### **[Name of Person in Video]**
 
@@ -218,7 +220,7 @@ ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR]((https://www.
 
 <div class="zoogestures">
 
-# ZOOGESTURES - Interspecies Learning and Technical Invention in Early Human Evolution
+# ZOOGESTURES: Interspecies Learning and Technical Invention in Early Human Evolution
 
 <strong><a href="https://zoogestures.uni-koeln.de/" class="zoogestures-name">ZOOGESTURES</a></strong> is the acronym for “The Zoomorphology of Gestures: Interspecies Learning and Technical Invention in Early Human Evolution”. It is a 4-year, collaborative and cross-university project integrating archaeological (Cologne), philosophical and anthropological (Siegen), as well as primatological (St Andrews) lines of inquiry into human and nonhuman gestural and technical behaviour to develop a novel research programme to better understand how humans and nonhumans may have inspired and learnt from each other over evolutionary timescales. Generously funded through the [VolkswagenFoundation’s “Pioneering Research – Exploring the Unknown Unknown” funding line](https://www.volkswagenstiftung.de/en/funding/funding-offer/pioneering-research-exploring-unknown-unknown), ZOOGESTURES combines theory-work, cross-period synthesis and comparison, as well as fieldwork in Africa (and possibly elsewhere) to explore the significance of cross-species cohabitation and interaction for the evolution of behavioural novelty, in particular the hitherto overlooked role of other animals in processes of human technical invention.
 
@@ -227,7 +229,7 @@ ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR]((https://www.
 <div class="news-item">
 ### **Matthew Henderson joins ZOOGESTURES** (March 1)
 
-[Matthew joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/matthew-henderson) as a postdoctoral researcher and comparative psychologist, with a background of behavioural primatology and gestural communication. His PhD explored how the ‘human-ape’ retains access to a shared ape-typical gestural repertoire, and how this bodily communication system has scaffolded for the emergence of language. For the ZOOGESTURES project, he brings his experience of human and nonhuman ape research across varied environments to help explore the influence that cross-species learning has had (and still has) across hominids.
+[Matthew joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/matthew-henderson) as a postdoctoral researcher and comparative psychologist, with a background in behavioural primatology and gestural communication. His PhD explored how the ‘human-ape’ retains access to a shared ape-typical gestural repertoire, and how this bodily communication system has scaffolded the emergence of language. For the ZOOGESTURES project, he brings his experience of human and nonhuman ape research across varied environments to help explore the influence that cross-species learning has had (and still has) across hominids.
 
 </div>
 
@@ -259,7 +261,7 @@ What really stood out was the lively discussion in between, full of probing ques
 
 ### **Scoping Workshop for Multispecies Archaeology funded** (August 25)
 
-The [VolkswagenFoundation](https://www.volkswagenstiftung.de/en/funding/funding-offer/scoping-workshops) will fund a 3-day scoping workshop on the state-of-the-art and future of multispecies archaeology with 42,000 Euros. The workshop will be co-organised by Shumon T. Hussain (Cologne), Nathalie Brusgaard (Leiden), Hannah Chazin (New York) and Henny Piezonka (Berlin), host 27 participants from around the world, and take place at beautiful castle Herrenhausen in Hannover from 6-8 October 2027.
+The [VolkswagenFoundation](https://www.volkswagenstiftung.de/en/funding/funding-offer/scoping-workshops) will fund a 3-day scoping workshop on the state-of-the-art and future of multispecies archaeology with 42,000 Euros. The workshop will be co-organised by Shumon T. Hussain (Cologne), Nathalie Brusgaard (Leiden), Hannah Chazin (New York) and Henny Piezonka (Berlin), host 27 participants from around the world, and take place at beautiful castle Herrenhausen in Hannover from 6—8 October 2027.
 
 </div>
  
@@ -309,7 +311,7 @@ Deadline: 15th of October
 
 **1. What is your role in ZOOGESTURES, and how does it connect to the project's major objectives?**
 
-I understand my role as “interdisciplinary anthropologist”, i.e, I attempt to operate in between the disciplines to draw conclusions from the empirical research for a theoretical, techno-anthropological framework. So I hope to develop a theory that accounts for the invention of technical gestures as multispecies event. This would in turn also allow to shed new light on archaeological and primatological findings.
+I understand my role as “interdisciplinary anthropologist”, i.e., I attempt to operate in between the disciplines to draw conclusions from the empirical research for a theoretical, techno-anthropological framework. So I hope to develop a theory that accounts for the invention of technical gestures as a multispecies event. This would in turn also allow to shed new light on archaeological and primatological findings.
 
 **2. How does your past or ongoing research feed into the project and shape its interdisciplinary perspective?**
 
@@ -317,7 +319,7 @@ Well, I have been working for a long time on questions of how to conceive of an 
 
 **3. What are you working on at the moment, and what is especially exciting about it?**
 
-At the moment I work on Simondon’s concept of the “associated milieu” as a condition of possibility for multispecies technical gestures. It allows me to push the limits of the concept and see if it fits to the phenomena and findings from archeology and primatology.
+At the moment I work on Simondon’s concept of the “associated milieu” as a condition of possibility for multispecies technical gestures. It allows me to push the limits of the concept and see if it fits to the phenomena and findings from archaeology and primatology.
 
 **4. What's one surprising insight you've had while working on this research?**
 
@@ -357,7 +359,7 @@ I am constantly surprised by the abilities of animals. So far, all the empirical
 
 - De Carvalho Cabral, D., and **S.T. Hussain** (submitted). *Inventing Brazil’s Saúvas: Eventful Megahistories of Human-Ant Coexistence in Greater Amazonia*. Cambridge University Press, Elements in Environmental Humanities.
 
-- **Schick, J.F.M.** (Submitted). ‘Zoogestures. A transindividual theory of multispecies technics’. In: Philosophy and Technology, Springer. 
+- **Schick, J.F.M.** (submitted). ‘Zoogestures. A transindividual theory of multispecies technics’. In: Philosophy and Technology, Springer. 
 
 
 
@@ -366,11 +368,11 @@ I am constantly surprised by the abilities of animals. So far, all the empirical
 
 - The ZOOGESTURES team is currently planning the 1st project workshop to be held in Cologne in November 2026 and its joint primatological-anthropological fieldwork programme, starting in 2027.
 
-- Cat has had a great summer of fieldwork thinking about ZOOGESTURES themed ideas! She and the Wild Minds Lab continue their work on sacred baboons, with communities who take primates as totems with anthropomorphic characteristics and a number of elephant-based projects, including on the question ‘what it means to be an elephant’ with Peter Butler-way. Wild Minds also started a collaboration with Dr Elodie Freymann on a Rights of Nature approach to networks of medicinal plant use that erode traditional boundaries around species-specific knowledge.
+- Cat has had a great summer of fieldwork thinking about ZOOGESTURES themed ideas! She and the Wild Minds Lab continue their work on sacred baboons, with communities who take primates as totems with anthropomorphic characteristics and a number of elephant-based projects, including on the question ‘what it means to be an elephant’ with Peter Butler-Way. Wild Minds also started a collaboration with Dr Elodie Freymann on a Rights of Nature approach to networks of medicinal plant use that erode traditional boundaries around species-specific knowledge.
 
 - Johannes is currently working on Simondon’s concept of the “associated milieu” as a condition of possibility for multispecies technical gestures. Furthermore, he is researching how the genesis of the categories of human understanding is co-constituted by multi-species relations and whether or not containers as fundamental technologies can also be considered as ZOOGESTURES.
 
-- Matthew has been investigating examples of medicinal practices of nonhuman animals and reports of which of these have been adopted by humans. The aim is to improve our understanding of of general biases in what humans pay attention to when it comes to nonhuman species (mostly focussing on relatedness and proximity biases). So far, he collected 186 cases of animal medicinal behaviour across 141 taxa, testing relatedness and proximity as explanations for which practices crossed into human use. He has also been working on making new software tools to help code audio/video data and to run/share experiments easily in remote fieldwork conditions. This includes a bioacoustics software focused on coding bioacoustics data (onset timing, rhythm metrics, linking audio to video) for the initial Environmental Landscape Rhythm project exploring cross-species rhythmic alignment between (e.g., chimpanzee drumming, bird song, human soundscapes) with the hope to extend it into other kinds of data coding as well. A second software is an offline, cross-platform experiment running app with a full experiment builder, any-language or icon-only interfaces and basic on-device gaze tracking/gyro tracking. He has already rebuilt the Wild Minds Lab’s completed ‘Great Ape Dictionary’ study that was originally run on gorilla.sc (which requires persistent online connection to work) which can be shared with communities of people who have differing moral/ethical concerns for chimpanzees to understand the role this plays in understanding communicative behaviours in these species.
+- Matthew has been investigating examples of medicinal practices of nonhuman animals and reports of which of these have been adopted by humans. The aim is to improve our understanding of general biases in what humans pay attention to when it comes to nonhuman species (mostly focussing on relatedness and proximity biases). So far, he collected 186 cases of animal medicinal behaviour across 141 taxa, testing relatedness and proximity as explanations for which practices crossed into human use. He has also been working on making new software tools to help code audio/video data and to run/share experiments easily in remote fieldwork conditions. This includes a bioacoustics software focused on coding bioacoustics data (onset timing, rhythm metrics, linking audio to video) for the initial Environmental Landscape Rhythm project exploring cross-species rhythmic alignment between (e.g., chimpanzee drumming, bird song, human soundscapes) with the hope to extend it into other kinds of data coding as well. A second software is an offline, cross-platform experiment running app with a full experiment builder, any-language or icon-only interfaces and basic on-device gaze tracking/gyro tracking. He has already rebuilt the Wild Minds Lab’s completed ‘Great Ape Dictionary’ study that was originally run on gorilla.sc (which requires persistent online connection to work) which can be shared with communities of people who have differing moral/ethical concerns for chimpanzees to understand the role this plays in understanding communicative behaviours in these species.
 
 
 - Rebekka is exploring how animals could have shaped technological learning, beginning with enigmatic marine animals as a first area of investigation. Alongside this, she and colleagues are working with the role of hares and multispecies learning in two Neolithic contexts.
