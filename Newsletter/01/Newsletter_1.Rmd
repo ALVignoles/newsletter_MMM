@@ -33,7 +33,7 @@ Welcome! This newsletter brings into dialogue, and informs about, two interdisci
 
 ### **Anaïs L. Vignoles joins ECOLITHIC** (January 1)
 
-[Anaïs L. Vignoles](https://ecolithic.uni-koeln.de/people/agnais-vignoles) joins the University of Cologne and the ECOLITHIC project as a postdoctoral researcher, supporting the team for the next 2 years. She is a prehistoric archaeologist interested in lithic technological evolution, the dynamic interaction of material culture and climate on evolutionary time scales, and the relationship between ecological and technological diversity. In the project, she explores how technical systems coexist in the Late Middle and Upper Palaeolithic of southwestern France, with a focus on Gravettian blade and bladelet technology.
+[Anaïs L. Vignoles joins](https://ecolithic.uni-koeln.de/people/agnais-vignoles) the University of Cologne and the ECOLITHIC project as a postdoctoral researcher, supporting the team for the next 2 years. She is a prehistoric archaeologist interested in lithic technological evolution, the dynamic interaction of material culture and climate on evolutionary time scales, and the relationship between ecological and technological diversity. In the project, she explores how technical systems coexist in the Late Middle and Upper Palaeolithic of southwestern France, with a focus on Gravettian blade and bladelet technology.
 
 </div>
 
@@ -329,13 +329,14 @@ Deadline: 15th of October
 </div>
 
 
-## Meeting the Team
+## Meeting the Team (Q&A)
 
 <div class="news-item">
 ### Today: [Johannes Schick](https://zoogestures.uni-koeln.de/people/johannes-f-m-schick)
 
 ![Andreas Hüttemann (Vice Dean, Faculty of Arts and Humanities, University of Cologne) congratulating Johannes at  his habilitation lecture.](J_lecture.jpg)
 
+<br>
 
 **1. What is your role in ZOOGESTURES, and how does it connect to the project's major objectives?**
 
