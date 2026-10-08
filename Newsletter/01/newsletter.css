@@ -90,6 +90,7 @@ a.ecolithic-name:hover {
 }
 
 
+
 /* -----------------------------------------
    IMAGE CAPTIONS
    ----------------------------------------- */
@@ -98,4 +99,155 @@ p.caption,
 figcaption,
 .figcaption {
   font-style: italic;
+}
+
+
+/* -----------------------------------------
+   SIDE-BY-SIDE IMAGES
+   ----------------------------------------- */
+
+.image-row {
+  display: flex;
+  gap: 1em;
+  align-items: flex-start;
+  margin: 1em 0;
+}
+
+.image-row > * {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.image-row img {
+  width: 100%;
+  height: auto;
+}
+
+/* On narrow screens (phones), stack them again */
+@media (max-width: 600px) {
+  .image-row {
+    flex-direction: column;
+  }
+}
+
+/* Optional: unequal widths. Add as a second class on .image-row */
+
+/* left image wider (about 60/40) */
+.image-row.wide-left > :first-child { flex: 3 1 0; }
+.image-row.wide-left > :last-child  { flex: 2 1 0; }
+
+/* right image wider (about 40/60) */
+.image-row.wide-right > :first-child { flex: 2 1 0; }
+.image-row.wide-right > :last-child  { flex: 3 1 0; }
+
+/* Keep phones stacked at full width */
+@media (max-width: 600px) {
+  .image-row.wide-left > *,
+  .image-row.wide-right > * {
+    flex: none;
+    width: 100%;
+  }
+}
+
+
+/* -----------------------------------------
+   CAPTION NEXT TO IMAGE
+   ----------------------------------------- */
+
+.side-caption .figure,
+.side-caption figure {
+  display: flex;
+  align-items: center;      /* caption vertically centred next to image */
+  gap: 1.2em;
+  margin: 1em 0;
+}
+
+.side-caption .figure img,
+.side-caption figure img {
+  flex: 0 0 55%;            /* image takes 55% of the width */
+  max-width: 55%;
+  height: auto;
+}
+
+.side-caption .figcaption,
+.side-caption figcaption,
+.side-caption p.caption {
+  flex: 1;                  /* caption fills the remaining space */
+  text-align: left;
+  margin: 0;
+}
+
+/* Caption on the LEFT, image on the right */
+.side-caption.caption-left .figure,
+.side-caption.caption-left figure {
+  flex-direction: row-reverse;
+}
+
+/* Phones: stack again */
+@media (max-width: 600px) {
+  .side-caption .figure,
+  .side-caption figure {
+    flex-direction: column;
+  }
+  .side-caption .figure img,
+  .side-caption figure img {
+    flex: none;
+    max-width: 100%;
+  }
+}
+
+
+
+/* -----------------------------------------
+   ALTERNATIVE: PHOTO WITH SIDE CAPTION (plain HTML version)
+   ----------------------------------------- */
+
+.photo-side {
+  display: flex;
+  align-items: center;
+  gap: 1.2em;
+  margin: 1em 0;
+}
+
+.photo-side img {
+  flex: 0 0 55%;
+  max-width: 55%;
+  height: auto;
+}
+
+.photo-side .photo-caption {
+  flex: 1;
+  font-style: italic;
+  text-align: left;
+}
+
+/* caption on the left instead */
+.photo-side.caption-left {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 600px) {
+  .photo-side {
+    flex-direction: column;
+  }
+  .photo-side img {
+    flex: none;
+    max-width: 100%;
+  }
+}
+
+
+
+/* -----------------------------------------
+   Video Embedding adjustments
+   ----------------------------------------- */
+
+.video-wrap video {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}.video-wrap video {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
 }

@@ -1,5 +1,5 @@
 ---
-title: Stones and Animals Newsletter
+title: Stones & Animals Newsletter
 author: "01 | October 2026"
 output:
   prettydoc::html_pretty:
@@ -13,7 +13,7 @@ editor_options:
     wrap: 72
 ---
 
-Welcome! This newsletter brings together two projects rethinking the deep-time evolution of human technology. <strong><a href="https://zoogestures.uni-koeln.de/" class="zoogestures-name">ZOOGESTURES</a></strong> explores the overlooked role of nonhuman animal gestures in inspiring and scaffolding technical learning and innovation in early human evolution. <strong><a href="https://ecolithic.uni-koeln.de/" class="ecolithic-name">ECOLITHIC</a></strong> develops a radical new ecosystems view of long-term Palaeolithic stone tool evolution. Together, they open up fresh perspectives on how humans became technological beings – never alone, but always in relation to their wider world!
+Welcome! This newsletter brings into dialogue, and informs about, two interdisciplinary research projects on the history of more-than-human worlds and the evolution of human technology: ZOOGESTURES and ECOLITHIC. <strong><a href="https://zoogestures.uni-koeln.de/" class="zoogestures-name">ZOOGESTURES</a></strong> explores the overlooked role of nonhuman animal gestures in inspiring and scaffolding technical learning and innovation in early human evolution. <strong><a href="https://ecolithic.uni-koeln.de/" class="ecolithic-name">ECOLITHIC</a></strong> works on a new radical ecosystems view of long-term Palaeolithic stone tool evolution. Together, they endeavour to contribute fresh perspectives on how humans became technological beings – never alone, but always in relation to their wider world!
 
 <br>
 
@@ -33,14 +33,16 @@ Welcome! This newsletter brings together two projects rethinking the deep-time e
 
 ### **Anaïs L. Vignoles joins ECOLITHIC** (January 1)
 
-Anaïs L. Vignoles joins the University of Cologne and the ECOLITHIC project as a postdoctoral researcher, supporting the team for the next 2 years. She is a prehistoric archaeologist interested in lithic technological evolution, the dynamic interaction of material culture and climate on evolutionary time scales, and the relationship between ecological and technological diversity. In the project, she explores how technical systems coexist in the Late Middle and Upper Palaeolithic of southwestern France, with a focus on Gravettian blade and bladelet technology.
+[Anaïs L. Vignoles](https://ecolithic.uni-koeln.de/people/agnais-vignoles) joins the University of Cologne and the ECOLITHIC project as a postdoctoral researcher, supporting the team for the next 2 years. She is a prehistoric archaeologist interested in lithic technological evolution, the dynamic interaction of material culture and climate on evolutionary time scales, and the relationship between ecological and technological diversity. In the project, she explores how technical systems coexist in the Late Middle and Upper Palaeolithic of southwestern France, with a focus on Gravettian blade and bladelet technology.
 
 </div>
 
 
 <div class="news-item">
 
-### **ECOLITHIC launch event at the Department for Prehistoric Archaeology** (January 9)
+### **ECOLITHIC launch event at the Department for Prehistoric Archaeology** (January&nbsp;9)
+
+![](EL.png)
 
 We successfully launched the project and welcomed new ECOLITHIC postdoctoral researcher Anaïs L. Vignoles in Cologne. Shumon T. Hussain presented an overview of the work programme and shared some initial project ideas to be developed and tested in the next 3 years. The launch was followed by a cosy get-together with drinks and lively discussions into the late evening.
 
@@ -74,13 +76,16 @@ Shumon T. Hussain and Anaïs L. Vignoles gave their first joint presentation of 
 
 Shumon T. Hussain spent a week at the Department of Cultural Heritage of the University of Bologna campus in Ravenna to work with Giulia Marciani (Bologna) and Serena Lombardo (Tübingen) on questions of bipolar technology and technological coexistence in the lithic bipolar milieu during the Upper Palaeolithic. Shumon also presented ongoing research in the ECOLITHIC project.
 
+
 ![Giulia (left) and Shumon (right) in Ravenna.](Ravenna1.jpg)
 
 <br>
 
 ![Some very old stone artefacts.](Ravenna2.jpg)
 
+
 </div>
+
 
 <div class="news-item">
 
@@ -105,6 +110,7 @@ Anaïs L. Vignoles was invited to give a presentation on her ongoing work at the
 
 </div>
 
+
 <div class="news-item">
 
 ### **Sébastien Plutniak visits the ECOLITHIC team in Cologne** (June 29–30)
@@ -113,23 +119,31 @@ Senior CNRS researcher Sébastien Plutniak from the CITERES-LAT laboratory in To
 
 </div>
 
+
 <div class="news-item">
 
 ### **ECOLITHIC at the 16th Annual Meeting of the European Society for the Study of Human Evolution [(ESHE)](https://www.eshe.eu/meetings/) in Burgos, Spain** (September 17–19)
 
+<div class="image-row wide-right">
+
+![](Burgos1.jpg)
+
+![The meeting took place at the impressive Complejo de la Evolución Humana.](Burgos3.jpg)
+
+</div>
 
 Shumon T. Hussain presented a poster outlining the project’s newly developed multi-level research framework for the study of lithic macroevolution, anchored in the idea of a “holarchy” of technological organisation.
 
-
 </div>
+
 
 <div class="news-item">
 
 ### **“Digital Minds or Digital Mines” session in Bonn** (September 21–22)
 
-Shumon T. Hussain and Sheena Bartscherer from the Robert K. Merton Center for Research on Science in Berlin participated in a session aiming to develop critical perspectives on digital and computational archaeologies, organised by the Working Group for Theoretical Archaeology ([TiDA](https://www.agtida.de/)) as a part of the annual meeting of the association of West, South, Northwest, Central and East German studies of antiquity and prehistory. They contributed to discussions and presented their vision of a “Critical archaeology of Open Science and Replication”.
+Shumon T. Hussain and Sheena Bartscherer from the Robert K. Merton Center for Research on Science in Berlin participated in a session aiming to develop critical perspectives on digital and computational archaeologies, organised by the Working Group for Theoretical Archaeology ([TiDA](https://www.agtida.de/)) as a part of the annual meeting of the association of West, South, Northwest, Central and East German studies of antiquity and prehistory. They contributed to discussions and presented their vision of a “Critical Archaeology of Open Science and Replication”.
 
-![Shenna (left) and Shumon (right) in Bonn.](Bonn.jpg)
+![Sheena (left) and Shumon (right) in Bonn.](Bonn.jpg)
 
 </div>
 
@@ -141,7 +155,11 @@ Shumon T. Hussain and Sheena Bartscherer from the Robert K. Merton Center for Re
 
 ### **ECOLITHIC at the HESCOR Virtual Exhibition** (October 23)
 
-ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR](https://www.hescor-project.com/) Virtual Exhibition on October 23, hosting its own virtual room and showcasing some key ideas and initial results of the project. The HESCOR Virtual Exhibition aims to present research conducted during the University of Cologne’s 3-year, cross-faculty research initiative HESCOR (*Human & Earth System Coupled Research*) to a broader audience. HESCOR has brought into dialogue Earth system science and the humanities to better understand and integrate human agency into Earth system modelling.
+ECOLITHIC will be present at the hybrid [Vernissage](https://mesh.uni-koeln.de/sites/mesh/6_Media_Publications/HESCOR_Virtual_Exhibition_Save-the-Date__1_.jpg) of the [HESCOR](https://www.hescor-project.com/) Virtual Exhibition on October 23, hosting its own virtual room and showcasing some key ideas and initial results of the project. The HESCOR Virtual Exhibition aims to present research conducted during the University of Cologne’s 3-year, cross-faculty research initiative HESCOR (*Human & Earth System Coupled Research*) to a broader audience. HESCOR has brought into dialogue Earth system science and the humanities to better understand and integrate human agency into Earth system modelling.
+
+You can sign up for in-person and Zoom participation [here](https://uni-koeln.sciebo.de/apps/forms/s/2msKqCfSKJwLaWgLszKkE8Wi).
+
+![](HESCOR.jpg)
 
 </div>
 
@@ -151,11 +169,17 @@ ECOLITHIC will be present at the hybrid Vernissage of the [HESCOR](https://www.h
 
 <div class="news-item">
 
-During the first ECOLITHIC workshop team members 
+During the first ECOLITHIC workshop team members and external collaborators recorded short interviews about their work, hopes, and planned contributions to the ECOLITHIC collaborative.
+Our first video showcase covers **[Sergi Valverde](https://www.ibe.upf-csic.es/valverde/-/asset_publisher/FHBnF71QJyC4/content/valverde-castillo-sergi/maximized)**, a leading network and complexity scientist and PI of the “Evolution of Networks Lab” at the CSIC in Barcelona.
 
-### **[Name of Person in Video]**
-
-[Add link or information on the video interviews].
+```{=html}
+<div class="video-wrap">
+<video controls preload="metadata" poster="Video1.png">
+<source src="Sergi_Edited.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+```
 
 </div>
 
@@ -168,9 +192,9 @@ During the first ECOLITHIC workshop team members
 
 - **Hussain, S.T.** (2025). ‘“Intentions do not fossilize” – Unpacking problematic domain-assumptions in Pleistocene lithic studies.’ In: Hussain, S.T. and G.L. Dusseldorp (eds.), *“Sitting on the fence”: Negotiating archaeology, anthropology, and philosophy. Festschrift for Prof. Dr Raymond H.A. Corbey in celebration of his 70th birthday*, pp. 103–114. Leiden: Sidestone Press. [https://www.sidestone.com/books/sitting-on-the-fence](https://www.sidestone.com/books/sitting-on-the-fence)
 
-- Vaesen, K., and **S.T. Hussain** (2026). ‘The Perks and Perils of Replicability’. *American Antiquity* 91: 437–444. [https://doi.org/10.1017/aaq.2025.10146](https://doi.org/10.1017/aaq.2025.10146)
-
 - **Hussain, S.T.** (2026). ‘Replication as Salvation: The Politics of Open Science and the Recurring Allure of Scientism in Deep-Time Lithic Studies’. *Journal of Paleolithic Archaeology* 9: 15. [https://doi.org/10.1007/s41982-026-00261-6](https://doi.org/10.1007/s41982-026-00261-6)
+
+- Vaesen, K., and **S.T. Hussain** (2026). ‘The Perks and Perils of Replicability’. *American Antiquity* 91: 437–444. [https://doi.org/10.1017/aaq.2025.10146](https://doi.org/10.1017/aaq.2025.10146)
 
 
 ### Forthcoming/Submitted 
@@ -181,8 +205,6 @@ During the first ECOLITHIC workshop team members
 
 - **Hussain, S.T.**, Ohrem, O., Bartosch, R., Schwegler, C., Stutz, A.J., Simon, Z.B., and Rigby, K. (submitted). ‘Earth System Agency and Telecausality: Bringing the Earth Sciences and the Environmental Humanities into Conversation.’ *Journal of Quaternary Science*.
 
-- Vidiella, B., G. Nicoletti, R. Fernández, A. Spiridonov, A. Sanchez, **S.T. Hussain**, and S. Valverde (submitted). ‘Higher-order assembly and emergent persistence in biology.’ *Current Opinion in Systems Biology*.
-
 - Plutniak, S., **S.T. Hussain**, and F. Riede (forthcoming fall 2026). *Between variability and singularity: crossing theoretical, qualitative and computer-based approaches to types and typologies in archaeology*. Leiden: Sidestone Press. [https://www.sidestone.com/books/between-variability-and-singularity](https://www.sidestone.com/books/between-variability-and-singularity)
 
 - Plutniak, S., **S.T. Hussain**, and F. Riede (forthcoming fall 2026). ‘Typologising archaeological typologies: Motivation, structure and the making of a digitally augmented edited volume.’ In: S. Plutniak, S.T. Hussain, and F. Riede (eds.), *Between variability and singularity: crossing theoretical, qualitative and computer-based approaches to types and typologies in archaeology*, pp. 7–20. Leiden: Sidestone Press. [https://www.sidestone.com/books/between-variability-and-singularity](https://www.sidestone.com/books/between-variability-and-singularity)
@@ -191,24 +213,19 @@ During the first ECOLITHIC workshop team members
 
 - **Hussain, S.T.** (forthcoming fall 2026). ‘Do we need (more) humble typologies?’ In: S. Plutniak, S.T. Hussain, and F. Riede (eds.), *Between variability and singularity: crossing theoretical, qualitative and computer-based approaches to types and typologies in archaeology*, pp. 257–268. Leiden: Sidestone Press. [https://www.sidestone.com/books/between-variability-and-singularity](https://www.sidestone.com/books/between-variability-and-singularity)
 
+- Vidiella, B., G. Nicoletti, R. Fernández, A. Spiridonov, A. Sanchez, **S.T. Hussain**, and S. Valverde (forthcoming fall 2026). ‘Higher-order assembly and emergent persistence in biology.’ *Current Opinion in Systems Biology*.
+
 
 ## From the Labs - Ongoing Work
 
 <div class="news-item">
 
-- The ECOLITHIC team is working on a joint paper on the configuration of lithic ecosystems involving bipolar reduction technology during the Upper Palaeolithic in Mediterranean Europe, in collaboration with Giulia Marciani and Serena Lombardo.
-
-</div>
-
-<div class="news-item">
+- In collaboration with Giulia Marciani (Bologna) and Serena Lombardo (Tübingen), the ECOLITHIC team is working on a joint paper on the configuration and transformation of lithic ecosystems involving the application of bipolar reduction technology during the Upper Palaeolithic in Mediterranean Europe. 
 
 - Sergi Valverde (Barcelona) and Shumon T. Hussain are working on a joint paper examining the nonlinear, multi-level dynamics of multi-domain lithic technological change in the Final Palaeolithic of Europe.
 
-</div>
 
-<div class="news-item">
-
-- The ECOLITHIC team is developing a regional macro-archaeological database of technical systems’ co-occurrence during the critical time frame of the Late Middle Palaeolithic and Upper Palaeolithic in southwestern France. Two online mini-workshops were so far organised on May 13 and September 9 to discuss the approach and data framework with French colleagues. The team is currently preparing a larger 3-day in-person workshop at Les Eyzies in the Dordogne region to discuss things further with experts on the lithic record of the area.
+- The ECOLITHIC team is developing a regional macro-archaeological database of technical systems’ co-occurrence during the critical timeframe of the Late Middle Palaeolithic and Upper Palaeolithic in southwestern France. Two online mini-workshops were so far organised on May 13 and September 9 to discuss the approach and data framework with French colleagues. The team is currently preparing a larger 3-day in-person workshop at Les Eyzies in the Dordogne region to discuss things further with experts on the lithic record of the area.
 
 </div>
 
@@ -229,7 +246,7 @@ During the first ECOLITHIC workshop team members
 <div class="news-item">
 ### **Matthew Henderson joins ZOOGESTURES** (March 1)
 
-[Matthew joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/matthew-henderson) as a postdoctoral researcher and comparative psychologist, with a background in behavioural primatology and gestural communication. His PhD explored how the ‘human-ape’ retains access to a shared ape-typical gestural repertoire, and how this bodily communication system has scaffolded the emergence of language. For the ZOOGESTURES project, he brings his experience of human and nonhuman ape research across varied environments to help explore the influence that cross-species learning has had (and still has) across hominids.
+[Matthew joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/matthew-henderson) as a postdoctoral researcher and comparative psychologist, with a background in behavioural primatology and gestural communication. His PhD explored how the "human-ape" retains access to a shared ape-typical gestural repertoire, and how this bodily communication system has scaffolded the emergence of language. For the ZOOGESTURES project, he brings his experience of human and nonhuman ape research across varied environments to help explore the influence that cross-species learning has had (and still has) across hominids.
 
 </div>
 
@@ -237,7 +254,7 @@ During the first ECOLITHIC workshop team members
 
 ### **Rebekka I.I. Eckelmann joins ZOOGESTURES** (June 1)
 
-[Rebekka joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/rebekka-ii-eckelmann) as a postdoctoral researcher and multispecies archaeologist, with a background in faunal osteology and isotope biogeochemistry. Her research explores how human–nonhuman relationships shaped past subsistence, social organisation and technological practices. Within ZOOGESTURES, she brings an archaeological perspective to past socio-zoo-technical relations.
+[Rebekka joins ZOOGESTURES](https://zoogestures.uni-koeln.de/people/rebekka-ii-eckelmann) as a postdoctoral researcher and multispecies archaeologist, with a background in faunal osteology and isotope biogeochemistry. Her research explores how human–nonhuman relationships shaped past subsistence, social organisation and technological practices. Within ZOOGESTURES, she contributes an archaeological perspective to past socio-zoo-technical relations.
 </div>
 
 <div class="news-item">
@@ -247,13 +264,16 @@ During the first ECOLITHIC workshop team members
 <div class="news-item">
 ### **ZOOGESTURES kicks off with a Bang – Launch at the Department for Prehistoric Archaeology (Cologne) attracts diverse audience** (July 15)
 
+![](ZG.png)
+
 ![ZOOGESTURES Kick Start event starting in Cologne here with Johannes, Shumon, Bar, and Rebekka (left to right).](ZG_Starter.jpeg)
 
-On 15 July, ZOOGESTURES celebrated its official launch, with Multispecies Archaeology (Cologne) now active as the last of the three work packages, following the start of work in Philosophy of Technology (Siegen) and Primatology (St Andrews) earlier this year. The Kick-Start Event brought together more than 20 participants from Prehistoric Archaeology, MESH, Philosophy, African Studies and beyond for an afternoon of presentations, discussion and exchange.
+On 15 July, ZOOGESTURES celebrated its official launch, with the Multispecies Archaeology working group (Cologne) now fully assembled as the last of the three work packages, following the start of work in philosophy of technology (Siegen) and primatology (St Andrews) earlier this year. The Kick-Start Event brought together more than 20 participants from Prehistoric Archaeology, MESH, Philosophy and Phenomenology, Anthropology and African Studies from within the University of Cologne for an afternoon of presentations, discussion, and exchange.
 
-Following an introduction to the project by Shumon T. Hussain and Rebekka I.I. Eckelmann, the programme continued with contributions from Thomas Widlok, who explored the distinction between technique as transfer and technique as culture, and Johannes Schick, who spoke on containers, media and multispecies technology in early evolution. We were particularly pleased to welcome external speakers Sonja Tomasso (Liege), who offered a functional-analytical perspective on animal materials in stone-tool technology, and Bar Efrati (Oxford), with a theoretical exploration of the “multispecies chaîne opératoire”.
+Following an introduction to the larger project by Shumon T. Hussain and Rebekka I.I. Eckelmann, the day’s programme continued with contributions from Thomas Widlok, who explored the distinction between technique as transfer and technique as culture, and Johannes Schick, who spoke about containers, media, and multispecies technology in early evolution. We were particularly pleased to welcome external speakers Sonja Tomasso (Liège), offering a functional-analytical perspective on animal materials in stone-tool technology, and Bar Efrati (Oxford), providing a theoretical discussion of the “multispecies chaîne opératoire(s)”.
 
-What really stood out was the lively discussion in between, full of probing questions and unexpected connections. ZOOGESTURES’ core idea – that human technology has never been a purely human affair – clearly resonated beyond our own disciplinary boundaries, opening up possibilities for new collaborations.
+What really stood out was the lively discussion in between, probing questions and making unexpected connections. ZOOGESTURES’ core idea – that human technology has never been a purely human affair – thus clearly resonated beyond our own disciplines, opening up plenty of possibilities for new collaborations.
+
 
 </div>
 
@@ -261,7 +281,9 @@ What really stood out was the lively discussion in between, full of probing ques
 
 ### **Scoping Workshop for Multispecies Archaeology funded** (August 25)
 
-The [VolkswagenFoundation](https://www.volkswagenstiftung.de/en/funding/funding-offer/scoping-workshops) will fund a 3-day scoping workshop on the state-of-the-art and future of multispecies archaeology with 42,000 Euros. The workshop will be co-organised by Shumon T. Hussain (Cologne), Nathalie Brusgaard (Leiden), Hannah Chazin (New York) and Henny Piezonka (Berlin), host 27 participants from around the world, and take place at beautiful castle Herrenhausen in Hannover from 6—8 October 2027.
+The [VolkswagenFoundation](https://www.volkswagenstiftung.de/en/funding/funding-offer/scoping-workshops) will fund a 3-day scoping workshop on the state-of-the-art and future of multispecies archaeology with 42,000 Euros. The workshop will be co-organised by Shumon T. Hussain (Cologne), Nathalie Brusgaard (Leiden), Hannah Chazin (New York) and Henny Piezonka (Berlin), will host 27 participants from around the world, and take place at beautiful castle Herrenhausen in Hannover from 6–8 October 2027.
+
+Read more about it [here](https://zoogestures.uni-koeln.de/news-media-and-calls/scoping-workshop-multispecies-archaeology).
 
 </div>
  
@@ -269,13 +291,13 @@ The [VolkswagenFoundation](https://www.volkswagenstiftung.de/en/funding/funding-
 <div class="news-item">
 ### **Ape and Human Communication at the Festival of Languages, St Andrews** (September 30)
 
-Cat Hobaiter and Matthew Henderson organised a public outreach event at the [Festival of Languages at St Andrews University](https://festivaloflanguages.wp.st-andrews.ac.uk/festival-programme/). This included a panel discussion and also provided people with the opportunity to explore how well they understood ape communication (spoiler alert - we have a lot more in common than you might think, so it’s not that hard!). 
+Cat Hobaiter and Matthew Henderson organised a public outreach event at the [Festival of Languages at St Andrews University](https://festivaloflanguages.wp.st-andrews.ac.uk/festival-programme/). This included a panel discussion and also provided people with the opportunity to explore how well they understood ape communication (spoiler alert – we have a lot more in common than you might think, so it’s not that hard!). 
 
 ![Cat (right) leading a discussion panel on the Origins of Language at the Festival of Languages at St Andrews University.](Chimp1.jpg)
 
 <br>
 
-![Care to test your ability to interpret ape communication? Matthew and the Wild Minds Lab are happy to help you there.](Chimps2.jpg)
+![Care to test your ability to interpret ape communication? Matthew (on the sofa) and the Wild Minds Lab are happy to help you there.](Chimps2.jpg)
 
 
 </div>
@@ -287,6 +309,10 @@ Cat Hobaiter and Matthew Henderson organised a public outreach event at the [Fes
 
 Rebekka Eckelmann and Shumon T. Hussain visited [Nathalie Brusgaard](https://www.universiteitleiden.nl/en/staffmembers/nathalie-brusgaard#tab-1) and her team at Leiden University’s Faculty of Archaeology to explore synergies and future collaborations between ZOOGESTURES and Nathalie’s new ERC Starting Grant project [WILDERFARM](https://www.universiteitleiden.nl/en/research/research-projects/archaeology/where-the-wild-things-were-how-the-rise-of-farming-changed-human-wildlife-relationships-wilderfarm), which focuses on the complexity and diversity of human-animal coexistence at the Mesolithic-Neolithic interface in the Netherlands, Central Germany, and Southern Sweden.
 
+![Exchanging ideas at Leiden University between two projects starting this year.](Leiden6.jpg)
+
+
+
 </div>
 
 ## Announcements
@@ -294,7 +320,9 @@ Rebekka Eckelmann and Shumon T. Hussain visited [Nathalie Brusgaard](https://www
 
 ### **CALL FOR PAPERS! Multispecies Session at [Kiel Conference](https://www.uni-kiel.de/de/cluster-roots/kiel-conference)** (March 8–12)
 
-ZOOGESTURES is organising “Session 3: Multispecies Ecologies of Innovation” at the Kiel Conference in the coming spring. It will focus on innovation as a multispecies project and human-animal learning in the widest sense with more information found in the [abstract](https://www.uni-kiel.de/fileadmin/user_upload/cluster/roots/Kiel_Conference/Call_for_Papers/2027_KielConference_Call_for_Papers_Session_03.pdf). We hope to see some of you in Kiel!
+ZOOGESTURES is organising “Session 3: Multispecies Ecologies of Innovation” at the Kiel Conference in the coming spring. It will focus on innovation as a multispecies project and human-animal learning in the wider sense with more information [here](https://www.uni-kiel.de/fileadmin/user_upload/cluster/roots/Kiel_Conference/Call_for_Papers/2027_KielConference_Call_for_Papers_Session_03.pdf). [Please submit your abstracts and ideas!](https://www.uni-kiel.de/en/cluster-roots/kiel-conference/call-for-papers)
+
+We hope to see some of you in Kiel!
 
 Deadline: 15th of October
 
@@ -306,7 +334,7 @@ Deadline: 15th of October
 <div class="news-item">
 ### Today: [Johannes Schick](https://zoogestures.uni-koeln.de/people/johannes-f-m-schick)
 
-![Andreas Hüttemann (Vice Dean, Faculty of Arts and Humanities) congratulating Johannes at  his habilitation lecture.](J_lecture.jpg)
+![Andreas Hüttemann (Vice Dean, Faculty of Arts and Humanities, University of Cologne) congratulating Johannes at  his habilitation lecture.](J_lecture.jpg)
 
 
 **1. What is your role in ZOOGESTURES, and how does it connect to the project's major objectives?**
@@ -326,7 +354,7 @@ At the moment I work on Simondon’s concept of the “associated milieu” as a
 I am constantly surprised by the abilities of animals. So far, all the empirical examples of multispecies co-habitation, co-evolution and co-culture have been surprising. Just now, I read how sika deer and macaques form social relations with each other.
 
 
-**Johannes Schick delivered his habilitation lecture “„Wir hätten nur noch einen Technologen gebraucht, um vollständig zu sein“ (Marcel Mauss) – Über den Versuch einer interdisziplinären Technikanthropologie“ [„"All we needed was a technologist to be complete" (Marcel Mauss) - On the attempt to develop an interdisciplinary anthropology of technology] on the 1st of June.**
+**Johannes Schick delivered his habilitation lecture „Wir hätten nur noch einen Technologen gebraucht, um vollständig zu sein“ (Marcel Mauss) – Über den Versuch einer interdisziplinären Technikanthropologie“ ["All we needed was a technologist to be complete" (Marcel Mauss) - An attempt to develop an interdisciplinary anthropology of technology] on the 1st of June 2026 (see photographic evidence above).**
 
 **Many congratulations from the team!**
 
@@ -337,13 +365,13 @@ I am constantly surprised by the abilities of animals. So far, all the empirical
 
 ### New
 
-- Dominy, N. J., & **Hobaiter, C.** (2026). Moonlight and the apotheosis of sacred baboons. Time and Mind, 1-12. ([https://doi.org/10.1080/1751696X.2026.2696260](https://doi.org/10.1080/1751696X.2026.2696260))
+- Dominy, N. J., and **Hobaiter, C.** (2026). ‘Moonlight and the apotheosis of sacred baboons‘. *Time and Mind*, 1-12. [https://doi.org/10.1080/1751696X.2026.2696260](https://doi.org/10.1080/1751696X.2026.2696260)
 
-- Eleuteri, V., Letrari, A., Bates, L., **Hobaiter, C.**, & Stoeger, A. (2026). Elephant gestural communication during agonistic interactions: repertoire, intentionality, and goals. Animal Cognition, 29(1), 67. ([https://doi.org/10.1007/s10071-026-02108-7](https://doi.org/10.1007/s10071-026-02108-7))
+- Eleuteri, V., Letrari, A., Bates, L., **Hobaiter, C.**, & Stoeger, A. (2026). ‘Elephant gestural communication during agonistic interactions: repertoire, intentionality, and goals‘. *Animal Cognition*, 29(1), 67. [https://doi.org/10.1007/s10071-026-02108-7](https://doi.org/10.1007/s10071-026-02108-7)
 
-- **Hussain, S. T.**, and D. Ohrem (2026). ‘Learning Environments with Other Animals.’ *Humanimalia* 16 (2): 251–295. ([https://doi.org/10.52537/humanimalia.23616](https://doi.org/10.52537/humanimalia.23616))
+- **Hussain, S. T.**, and D. Ohrem (2026). ‘Learning Environments with Other Animals.’ *Humanimalia* 16 (2): 251–295. [https://doi.org/10.52537/humanimalia.23616](https://doi.org/10.52537/humanimalia.23616)
 
-- **Hussain, S.T.** (2026). ‘Animals and Humans in the Paleolithic’. In: A. Mertig (ed.), *Research Handbook on Animals and Society*, pp. 66–89. Cheltenham: Edward Elgar Publishing. ([https://www.elgaronline.com/edcollbook/book/9781035300099/9781035300099.xml](https://www.elgaronline.com/edcollbook/book/9781035300099/9781035300099.xml))
+- **Hussain, S.T.** (2026). ‘Animals and Humans in the Paleolithic’. In: A. Mertig (ed.), *Research Handbook on Animals and Society*, pp. 66–89. Cheltenham: Edward Elgar Publishing. [https://www.elgaronline.com/edcollbook/book/9781035300099/9781035300099.xml](https://www.elgaronline.com/edcollbook/book/9781035300099/9781035300099.xml)
 
 
 
@@ -351,7 +379,7 @@ I am constantly surprised by the abilities of animals. So far, all the empirical
 
 - **Hussain, S.T.** and T. Breyer (forthcoming fall 2026). *Re-Calibrating Phenomenological Archaeology: More-than-human Lifeworlds*. Cambridge University Press, Elements in 21st Century Anthropological Archaeology.
 
-- **Hussain, S.T.**, and D. Ohrem (forthcoming 2027). ‘Beyond the Mangle of Culture: Lifeforms as Units of More-Than-Human Interdisciplinary History.’ In: H. Feder, S. McFahrland (eds.), *The Critical Question of Animal Cultures*. Routledge. (Zenodo Preprint: [https://doi.org/10.5281/zenodo.17113299](https://doi.org/10.5281/zenodo.17113299))
+- **Hussain, S.T.**, and D. Ohrem (forthcoming 2027). ‘Beyond the Mangle of Culture: Lifeforms as Units of More-Than-Human Interdisciplinary History.’ In: H. Feder, S. McFahrland (eds.), *The Critical Question of Animal Cultures*. Routledge. Zenodo Preprint: [https://doi.org/10.5281/zenodo.17113299](https://doi.org/10.5281/zenodo.17113299)
 
 - **Schick, J.F.M.** (forthcoming 2027). ‘The Technicity of Intuition: Methodological Reflections for a Process Philosophy of Technology.’ In: M. T. Young, M. Coekelbergh (eds.), *Process Philosophy and Technology. New Directions*. New York/London, Routledge.
 
@@ -368,14 +396,14 @@ I am constantly surprised by the abilities of animals. So far, all the empirical
 
 - The ZOOGESTURES team is currently planning the 1st project workshop to be held in Cologne in November 2026 and its joint primatological-anthropological fieldwork programme, starting in 2027.
 
-- Cat has had a great summer of fieldwork thinking about ZOOGESTURES themed ideas! She and the Wild Minds Lab continue their work on sacred baboons, with communities who take primates as totems with anthropomorphic characteristics and a number of elephant-based projects, including on the question ‘what it means to be an elephant’ with Peter Butler-Way. Wild Minds also started a collaboration with Dr Elodie Freymann on a Rights of Nature approach to networks of medicinal plant use that erode traditional boundaries around species-specific knowledge.
+- Cat has had a great summer of fieldwork thinking about ZOOGESTURES-themed ideas! She and the Wild Minds Lab continue their work on sacred baboons, with communities who take primates as totems with anthropomorphic characteristics and a number of elephant-based projects, including on the question ‘what it means to be an elephant’ with Peter Butler-Way. Wild Minds also started a collaboration with Dr Elodie Freymann on a Rights of Nature approach to networks of medicinal plant use that erode traditional boundaries around species-specific knowledge.
 
 - Johannes is currently working on Simondon’s concept of the “associated milieu” as a condition of possibility for multispecies technical gestures. Furthermore, he is researching how the genesis of the categories of human understanding is co-constituted by multi-species relations and whether or not containers as fundamental technologies can also be considered as ZOOGESTURES.
 
-- Matthew has been investigating examples of medicinal practices of nonhuman animals and reports of which of these have been adopted by humans. The aim is to improve our understanding of general biases in what humans pay attention to when it comes to nonhuman species (mostly focussing on relatedness and proximity biases). So far, he collected 186 cases of animal medicinal behaviour across 141 taxa, testing relatedness and proximity as explanations for which practices crossed into human use. He has also been working on making new software tools to help code audio/video data and to run/share experiments easily in remote fieldwork conditions. This includes a bioacoustics software focused on coding bioacoustics data (onset timing, rhythm metrics, linking audio to video) for the initial Environmental Landscape Rhythm project exploring cross-species rhythmic alignment between (e.g., chimpanzee drumming, bird song, human soundscapes) with the hope to extend it into other kinds of data coding as well. A second software is an offline, cross-platform experiment running app with a full experiment builder, any-language or icon-only interfaces and basic on-device gaze tracking/gyro tracking. He has already rebuilt the Wild Minds Lab’s completed ‘Great Ape Dictionary’ study that was originally run on gorilla.sc (which requires persistent online connection to work) which can be shared with communities of people who have differing moral/ethical concerns for chimpanzees to understand the role this plays in understanding communicative behaviours in these species.
+- Matthew has been investigating examples of medicinal practices of nonhuman animals and reports of which of these have been adopted by humans. The aim is to improve our understanding of general biases in what humans pay attention to when it comes to nonhuman species (mostly focussing on relatedness and proximity biases). So far, he has collected 186 cases of animal medicinal behaviour across 141 taxa, testing relatedness and proximity as explanations for which practices crossed into human use. He has also been working on making new software tools to help code audio/video data and to run/share experiments easily in remote fieldwork conditions. This includes a bioacoustics software focused on coding bioacoustics data (onset timing, rhythm metrics, linking audio to video) for the initial Environmental Landscape Rhythm project exploring cross-species rhythmic alignment between (e.g., chimpanzee drumming, bird song, human soundscapes) with the hope to extend it into other kinds of data coding as well. A second software is an offline, cross-platform experiment running app with a full experiment builder, any-language or icon-only interfaces and basic on-device gaze tracking/gyro tracking. He has already rebuilt the Wild Minds Lab’s completed ‘Great Ape Dictionary’ study that was originally run on gorilla.sc (which requires persistent online connection to work) which can be shared with communities of people who have differing moral/ethical concerns for chimpanzees to understand the role this plays in understanding communicative behaviours in these species.
 
 
-- Rebekka is exploring how animals could have shaped technological learning, beginning with enigmatic marine animals as a first area of investigation. Alongside this, she and colleagues are working with the role of hares and multispecies learning in two Neolithic contexts.
+- Rebekka is exploring how animals could have shaped technological learning, beginning with enigmatic marine animals as a first area of investigation. Alongside this, she and colleagues are working on the role of hares and multispecies learning in two Neolithic contexts.
 
 
 </div>
@@ -389,7 +417,7 @@ I am constantly surprised by the abilities of animals. So far, all the empirical
 
 ![](Blaetterhoehle1.jpeg)
 
-![Rebekka and Shumon had the chance to join colleagues in an excursion to the Blätterhöhle/Hamm, a cave site famous for its Palaeolithic and younger assemblages. Here we see us preparing to crawl into the cave and a view of Shumon with Karin Kindermann and the head of excavations, Wolfgang Heuschen, inside the cave.](Blaetterhoehle2.jpg)
+![Rebekka (top right) and Shumon (top left, bottom left) had the chance to join colleagues in an excursion to the Blätterhöhle/Hamm, a cave site famous for its Palaeolithic and younger assemblages. Here we see us preparing to crawl into the cave and a view of Shumon with Karin Kindermann and the head of excavations, Wolfgang Heuschen, inside the cave.](Blaetterhoehle2.jpg)
 
 
 
@@ -397,7 +425,7 @@ I am constantly surprised by the abilities of animals. So far, all the empirical
 
 <img src="J_Donkey.jpeg" alt="Johannes doing spontaneous fieldwork on multispecies encounters during his vacation.">
 
-<p><em>Johannes doing spontaneous fieldwork on multispecies encounters during his vacation.</em></p>
+<p><em>Johannes (left) doing spontaneous fieldwork on multispecies encounters during his vacation.</em></p>
 </div>
 
 
